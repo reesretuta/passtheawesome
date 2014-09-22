@@ -20,15 +20,17 @@ angular.module('myApp.services', [])
     }])
     .factory("ContactService", function ($rootScope, $q) {
 
-
+      
+      
             return {
                 create: function () {
                     return navigator.contacts.create()
                 },
                 find: function (filter) {
                     var deferred = $q.defer();
-
+                    alert('1111');
                     var options = new ContactFindOptions();
+                    alert('2222');
                     options.filter = filter;
                     options.multiple = true;
                     var fields = ["displayName", "name", "addresses", "emails"];
@@ -46,4 +48,11 @@ angular.module('myApp.services', [])
                     return deferred.promise;
                 }
             };
+            
+            
+            
+            
+            
+            
+            
         });

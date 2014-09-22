@@ -51,20 +51,20 @@
         <script type="text/javascript" src="js/controllers.js"></script>
         <script type="text/javascript">
         app.initialize();
+        var recipient = "";
         $(function(){
 
-
-
+          
           $('body').on('click','#friendList li',function(){
             $("#overlay").slideDown(500);
-            
+            recipient = $(this).attr('data-number');
           });
           
           $('body').on('click','#send',function(){
             alert('sending');
             $.ajax({
               type: 'post',
-              data: 'recipient='+$(this).attr('data-number'),
+              data: 'recipient='+recipient,
               url: 'http://passtheawesome.lionstepx2.com?testSuccess=1',
               success: function(r){
                 if (r == 'success'){

@@ -39,7 +39,7 @@
         </div>
 
         <!-- Libs -->
-        <script type="text/javascript" src="phonegap.js"></script>
+        <script type="text/javascript" src="cordova.js"></script>
         <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
         <script type="text/javascript" src="lib/angular/angular.js"></script>
         <script type="text/javascript" src="lib/angular/angular-route.js"></script>
@@ -54,8 +54,7 @@
         var recipient = "";
         $(function(){
 
-
-
+          
           $('body').on('click','#friendList li',function(){
             $("#overlay").slideDown(500);
             recipient = $(this).attr('data-number');
