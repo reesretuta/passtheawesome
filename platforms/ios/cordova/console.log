@@ -31,3 +31,37 @@ You could find it at the following address https://developer.apple.com/icloud/do
 
 2014-09-22 11:53:09.430 HelloWorld[10276:a0b] Resetting plugins due to page load.
 2014-09-22 11:53:09.661 HelloWorld[10276:a0b] Finished load of: file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/3C531D70-D88B-4CD1-A36F-5D4975792D8E/HelloWorld.app/www/index.html#/
+Terminating in response to SpringBoard's termination.
+2014-09-22 14:14:06.263 HelloWorld[15816:a0b] Multi-tasking -> Device: YES, App: YES
+2014-09-22 14:14:06.298 HelloWorld[15816:a0b] Unlimited access to network resources
+2014-09-22 14:14:06.304 HelloWorld[15816:a0b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-09-22 14:14:06.696 HelloWorld[15816:a0b] Resetting plugins due to page load.
+2014-09-22 14:14:07.206 HelloWorld[15816:a0b] Finished load of: file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/3C531D70-D88B-4CD1-A36F-5D4975792D8E/HelloWorld.app/www/index.html#/
+2014-09-22 14:27:06.780 HelloWorld[16451:a0b] Multi-tasking -> Device: YES, App: YES
+2014-09-22 14:27:06.793 HelloWorld[16451:a0b] Unlimited access to network resources
+2014-09-22 14:27:06.797 HelloWorld[16451:a0b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-09-22 14:27:06.942 HelloWorld[16451:a0b] Resetting plugins due to page load.
+2014-09-22 14:27:07.244 HelloWorld[16451:a0b] Finished load of: file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/3C531D70-D88B-4CD1-A36F-5D4975792D8E/HelloWorld.app/www/index.html#/
+2014-09-22 16:40:33.258 HelloWorld[21515:a0b] Multi-tasking -> Device: YES, App: YES
+2014-09-22 16:40:33.295 HelloWorld[21515:a0b] Unlimited access to network resources
+2014-09-22 16:40:33.300 HelloWorld[21515:a0b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-09-22 16:40:33.665 HelloWorld[21515:a0b] Resetting plugins due to page load.
+2014-09-22 16:40:34.066 HelloWorld[21515:a0b] Finished load of: file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/3C531D70-D88B-4CD1-A36F-5D4975792D8E/HelloWorld.app/www/index.html#/

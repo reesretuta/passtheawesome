@@ -28,9 +28,9 @@ angular.module('myApp.services', [])
                 },
                 find: function (filter) {
                     var deferred = $q.defer();
-                    alert('1111');
+                    
                     var options = new ContactFindOptions();
-                    alert('2222');
+                    
                     options.filter = filter;
                     options.multiple = true;
                     var fields = ["displayName", "name", "addresses", "emails"];
