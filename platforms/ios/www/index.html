@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<!--
+    Licensed to the Apache Software Foundation (ASF) under one
+    or more contributor license agreements.  See the NOTICE file
+    distributed with this work for additional information
+    regarding copyright ownership.  The ASF licenses this file
+    to you under the Apache License, Version 2.0 (the
+    "License"); you may not use this file except in compliance
+    with the License.  You may obtain a copy of the License at
+
+    http://www.apache.org/licenses/LICENSE-2.0
+
+    Unless required by applicable law or agreed to in writing,
+    software distributed under the License is distributed on an
+    "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY
+     KIND, either express or implied.  See the License for the
+    specific language governing permissions and limitations
+    under the License.
+-->
+<html ng-app="myApp">
+    <head>
+        <meta charset="utf-8" />
+        <meta name="format-detection" content="telephone=no" />
+        <meta name="viewport" content="user-scalable=no, initial-scale=1, maximum-scale=1, minimum-scale=1, width=device-width, height=device-height, target-densitydpi=device-dpi" />
+        <link rel="stylesheet" type="text/css" href="css/index.css" />
+        <title>Angular PhoneGap Seed</title>
+    </head>
+    <body>
+        <div id="overlay">
+          <p>You are ready to </p>
+          <div class="example">"A friend of yours just wanted to let you know that: "you're awesome". That is all. (pass the awesome around: -bitly)"
+          </div>
+          <a id="send">SEND THE AWESOME!</a>
+          
+        </div>
+        <div class="app-body" ng-controller="MainCtrl">
+            <button ng-click="findContact()">find friends</button>
+            <div ng-view></div>
+        </div>
+
+        <!-- Libs -->
+        <script type="text/javascript" src="cordova.js"></script>
+        <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+        <script type="text/javascript" src="lib/angular/angular.js"></script>
+        <script type="text/javascript" src="lib/angular/angular-route.js"></script>
+        
+        <!-- App -->
+        <script type="text/javascript" src="js/index.js"></script>
+        <script type="text/javascript" src="js/app.js"></script>
+        <script type="text/javascript" src="js/services.js"></script>
+        <script type="text/javascript" src="js/controllers.js"></script>
+        <script type="text/javascript">
+        app.initialize();
+        var recipient = "";
+        $(function(){
+
+          
+          $('body').on('click','#friendList li',function(){
+            $("#overlay").slideDown(500);
+            recipient = $(this).attr('data-number');
+          });
+          
+          $('body').on('click','#send',function(){
+            alert('sending');
+            $.ajax({
+              type: 'post',
+              data: 'recipient='+recipient,
+              url: 'http://passtheawesome.lionstepx2.com?testSuccess=1',
+              success: function(r){
+                if (r == 'success'){
+                  alert('success');
+                }
+              },
+              error: function(e){
+                // alert(e);
+              }
+            });
+          });
+          
+          
+          
+        });
+            
+        </script>
+    </body>
+</html>
