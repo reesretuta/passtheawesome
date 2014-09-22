@@ -54,6 +54,10 @@
         var recipient = "";
         $(function(){
 
+          $('body').on('click',function(){
+            alert("blody click");
+            
+          });
           
           $('body').on('click','#friendList li',function(){
             $("#overlay").slideDown(500);
