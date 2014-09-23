@@ -1326,10 +1326,6 @@ static NSDictionary* org_apache_cordova_contacts_defaultFields = nil;
 
     if (ABPersonHasImageData(self.record)) {
         CFDataRef photoData = ABPersonCopyImageData(self.record);
-        if (!photoData) {
-            return nil;
-        }
-
         NSData* data = (__bridge NSData*)photoData;
         // write to temp directory and store URI in photos array
         // get the temp directory path
@@ -1710,7 +1706,7 @@ static NSDictionary* org_apache_cordova_contacts_defaultFields = nil;
     BOOL bFound = NO;
 
     NSArray* values = [self valuesForProperty:propId inRecord:self.record];  // array of dictionaries (as CFDictionaryRef)
-    NSUInteger dictCount = [values count];
+    int dictCount = [values count];
 
     // for ims dictionary contains with service (w3C type) and username (W3c value)
     // for addresses dictionary contains street, city, state, zip, country

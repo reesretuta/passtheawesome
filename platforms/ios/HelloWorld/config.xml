@@ -49,7 +49,6 @@
     <gap:plugin name="org.apache.cordova.camera" />
     <gap:plugin name="org.apache.cordova.media-capture" />
     <gap:plugin name="org.apache.cordova.console" />
-    <gap:plugin name="org.apache.cordova.contacts" />
     <gap:plugin name="org.apache.cordova.device" />
     <gap:plugin name="org.apache.cordova.device-motion" />
     <gap:plugin name="org.apache.cordova.device-orientation" />
@@ -89,12 +88,9 @@
     <gap:splash gap:platform="ios" height="768" src="res/screen/ios/screen-ipad-landscape.png" width="1024" />
     <gap:splash gap:platform="winphone" src="res/screen/windows-phone/screen-portrait.jpg" />
     <access origin="*" />
-    <gap:plugin name="org.apache.cordova.contacts" version="0.2.11" />
+    <gap:plugin name="com.techmuscle.contacts" />
+    <gap:plugin name="org.apache.cordova.contacts" version="0.2.9" />
     <feature name="Contacts">
         <param name="ios-package" value="CDVContacts" />
-    </feature>
-    <feature name="debug-server" required="true">
-        <param name="domain" value="http://localhost:8080" />
-        <param name="key" value="28361051719141113" />
     </feature>
 </widget>
