@@ -67,12 +67,12 @@
     <gap:splash gap:platform="winphone" src="res/screen/windows-phone/screen-portrait.jpg" />
     <access origin="*" />
 
-    <!-- <gap:plugin name="org.apache.cordova.contacts" version="0.2.13"/> -->
+    <gap:plugin name="org.apache.cordova.contacts" version="0.2.13"/>
     <!-- local machine using 0.2.13... phonegap website plugins list says 0.2.11..install 2.11 on local machine..local 2.13 version needs "filter array" as first param.  phonegap plugin 2.11 needs filter array as 3rd param-->
     <!-- <gap:plugin name="com.techmuscle.contacts"/> -->
     <!-- <gap:plugin name="org.apache.cordova.contacts" version="0.2.9"/> -->
     <!-- <gap:plugin name="org.apache.cordova.contacts"/> -->
-    <gap:plugin name="org.apache.cordova.contacts" version="0.2.11"/>
+    <!-- <gap:plugin name="org.apache.cordova.contacts" version="0.2.11"/> -->
     <feature name="Contacts">
         <param name="ios-package" value="CDVContacts" />
     </feature>

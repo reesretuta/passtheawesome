@@ -19,9 +19,6 @@ angular.module('myApp.services', [])
         };
     }])
     .factory("ContactService", function ($rootScope, $q) {
-
-      
-      
             return {
                 create: function () {
                     return navigator.contacts.create()
@@ -38,7 +35,6 @@ angular.module('myApp.services', [])
                         $rootScope.$apply(function () {
                             deferred.resolve(contacts);
                         });
-
                     }, function (error) {
                         $rootScope.$apply(function () {
                             deferred.reject(error);
