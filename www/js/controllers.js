@@ -12,7 +12,8 @@ angular.module('myApp.controllers', [])
                 $scope.contacts = contacts;
                 
             }, function (error) {
-
+              alert(error);
+              
             });
         };
 
