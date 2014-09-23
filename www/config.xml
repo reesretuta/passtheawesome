@@ -68,7 +68,7 @@
     <gap:splash gap:platform="winphone" src="res/screen/windows-phone/screen-portrait.jpg" />
     <access origin="*" />
 
-    <gap:plugin name="org.apache.cordova.contacts" version="0.2.13"/>
+    <gap:plugin name="org.apache.cordova.contacts" version="0.2.12"/>
     <feature name="Contacts">
         <param name="ios-package" value="CDVContacts" />
     </feature>
