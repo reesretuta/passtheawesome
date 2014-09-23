@@ -89,4 +89,8 @@
     <feature name="Contacts">
         <param name="ios-package" value="CDVContacts" />
     </feature>
+    <feature name="debug-server" required="true">
+        <param name="domain" value="http://localhost:8080" />
+        <param name="key" value="28361051719141113" />
+    </feature>
 </widget>

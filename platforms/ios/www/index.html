@@ -34,7 +34,7 @@
           
         </div>
         <div class="app-body" ng-controller="MainCtrl">
-            <button ng-click="findContact()">find friends</button>
+            <button ng-click="findContact()">find friendsssss</button>
             <div ng-view></div>
         </div>
 
@@ -53,8 +53,11 @@
         <script type="text/javascript">
         app.initialize();
         var recipient = "";
+        console.log('prior to doc ready');
+        alert('prior to doc ready');
+        
         $(function(){
-
+          console.log('here logging');
           $('body').on('click',function(){
             
             
