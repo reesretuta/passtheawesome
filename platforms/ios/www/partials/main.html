@@ -1,3 +1,4 @@
+<p>test</p>
 <input type="text" ng-model="search" value="" placeholder="Filter Friendsssss"/>
 <ul id="friendList">
       <li ng-repeat="friendObj in contacts | filter:search:strict" data-number="{{friendObj.phoneNumbers[0].value}}"><a href="#">PASS AWESOME TO {{friendObj.name.formatted}}</a></li>

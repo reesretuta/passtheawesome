@@ -4,7 +4,8 @@ angular.module('myApp.controllers', [])
         
 
         $scope.findContact = function (contactSearch) {
-
+          alert('findContact here');
+          
             ContactService.find(contactSearch).then(function (contacts) {
 
               
