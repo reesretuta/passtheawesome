@@ -58,7 +58,10 @@ module.exports = [
     },
     {
         "file": "plugins/org.apache.cordova.contacts/www/ContactFieldType.js",
-        "id": "org.apache.cordova.contacts.ContactFieldType"
+        "id": "org.apache.cordova.contacts.ContactFieldType",
+        "merges": [
+            ""
+        ]
     },
     {
         "file": "plugins/org.apache.cordova.contacts/www/ios/contacts.js",
@@ -78,7 +81,7 @@ module.exports = [
 module.exports.metadata = 
 // TOP OF METADATA
 {
-    "org.apache.cordova.contacts": "0.2.12"
+    "org.apache.cordova.contacts": "0.2.13"
 }
 // BOTTOM OF METADATA
 });

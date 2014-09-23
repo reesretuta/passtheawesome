@@ -142,6 +142,17 @@
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
 		},
+	"\/www\/lib\/angular\/angular-touch.js": {
+		"fileType": 64,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/www\/lib\/angular\/angular-touch.js",
+		"outputAbbreviatedPath": "\/www\/lib\/angular\/min\/angular-touch-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
 	"\/www\/lib\/angular\/angular.js": {
 		"fileType": 64,
 		"ignore": 1,
