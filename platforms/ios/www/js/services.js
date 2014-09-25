@@ -31,7 +31,7 @@ angular.module('myApp.services', [])
                     options.filter = filter;
                     options.multiple = true;
                     var fields = ["displayName", "name", "addresses", "emails"];
-                    navigator.contacts.find(function (contacts) {
+                    navigator.contacts.find(fields, function (contacts) {
                         $rootScope.$apply(function () {
                             deferred.resolve(contacts);
                         });
@@ -39,7 +39,7 @@ angular.module('myApp.services', [])
                         $rootScope.$apply(function () {
                             deferred.reject(error);
                         });
-                    }, fields, options);
+                    }, options);
 
                     return deferred.promise;
                 }

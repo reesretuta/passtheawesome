@@ -25,16 +25,24 @@
         <link rel="stylesheet" type="text/css" href="css/index.css" />
         <title>Angular PhoneGap Seed</title>
     </head>
-    <body>
+    <body ng-controller="MainCtrl">
         <div id="overlay">
-          <p>You are ready to </p>
-          <div class="example">"A friend of yours just wanted to let you know that: "you're awesome". That is all. (pass the awesome around: -bitly)"
+          <p>You about to send {{friend}} some Awesome!</p>
+          <div class="example">"A friend of yours just wanted to let you know that: "you're awesome". That is all."
+            <!-- (pass the awesome around: -bitly) -->
           </div>
-          <a id="send">SEND THE AWESOMEEEEEEEEEE!</a>
-          
+          <a id="send">SEND THE AWESOME!</a>
+          <div id="close" ng-click="closePopup()">X</div>
         </div>
-        <div class="app-body" ng-controller="MainCtrl">
+        
+        <div class="app-body">
             <button ng-click="findContact()">find friendsssss</button>
+            <input type="text" ng-model="search" value="" placeholder="Filter Friends"/>
+            <ul id="friendList">
+                  <li ng-click="pickFriend(friendObj.name.formatted, friendObj.phoneNumbers[0].value)" ng-repeat="friendObj in contacts | filter:search:strict">
+                    <div><a href="#">{{friendObj.name.formatted}}</a><a class="passButton">SEND AWESOME</a></div>
+                  </li>
+            </ul>
             <div ng-view></div>
         </div>
 
@@ -56,23 +64,17 @@
 
         
         $(function(){
-
-
-          
-          $('body').on('click','#friendList li',function(){
-            $("#overlay").slideDown(500);
-            recipient = $(this).attr('data-number');
-          });
           
           $('body').on('click','#send',function(){
-            alert('sending');
+
             $.ajax({
               type: 'post',
               data: 'recipient='+recipient,
-              url: 'http://passtheawesome.lionstepx2.com?testSuccess=1',
+              url: 'http://passtheawesome.lionstepx2.com/sendTxt.php',
               success: function(r){
                 if (r == 'success'){
-                  alert('success');
+                  alert('success!');
+                  
                 }
               },
               error: function(e){

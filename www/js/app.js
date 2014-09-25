@@ -3,7 +3,7 @@ angular.module('myApp', ['ngRoute', 'ngTouch', 'myApp.services', 'myApp.controll
         $routeProvider
         .when('/', {
             controller: 'MainCtrl',
-            templateUrl: 'partials/main.html'
+            // templateUrl: 'partials/main.html'
         })
         .when('/view', {
             controller: 'ViewCtrl',
