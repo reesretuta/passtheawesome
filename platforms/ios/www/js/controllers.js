@@ -1,7 +1,6 @@
 angular.module('myApp.controllers', [])
     .controller('MainCtrl', ['$scope','ContactService', function ($scope,ContactService) {
         $scope.status = "It works!";
-        $scope.friend = 'dummjy friend';
         
         $scope.closePopup = function(){
             $("#overlay").fadeOut(500);

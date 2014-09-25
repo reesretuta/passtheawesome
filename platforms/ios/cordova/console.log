@@ -1204,3 +1204,40 @@ Sep 25 14:56:06 Reess-MacBook-Pro-2.local HelloWorld[18571] <Error>: CGContextGe
 Sep 25 14:56:06 Reess-MacBook-Pro-2.local HelloWorld[18571] <Error>: CGContextSetBlendMode: invalid context 0x0. This is a serious error. This application, or a library it uses, is using an invalid context  and is thereby contributing to an overall degradation of system stability and reliability. This notice is a courtesy: please fix this problem. It will become a fatal error in an upcoming update.
 Sep 25 14:56:06 Reess-MacBook-Pro-2.local HelloWorld[18571] <Error>: CGContextFillRects: invalid context 0x0. This is a serious error. This application, or a library it uses, is using an invalid context  and is thereby contributing to an overall degradation of system stability and reliability. This notice is a courtesy: please fix this problem. It will become a fatal error in an upcoming update.
 Sep 25 14:56:06 Reess-MacBook-Pro-2.local HelloWorld[18571] <Error>: CGContextSetBlendMode: invalid context 0x0. This is a serious error. This application, or a library it uses, is using an invalid context  and is thereby contributing to an overall degradation of system stability and reliability. This notice is a courtesy: please fix this problem. It will become a fatal error in an upcoming update.
+2014-09-25 15:00:59.746 HelloWorld[19478:a0b] Multi-tasking -> Device: YES, App: YES
+2014-09-25 15:00:59.760 HelloWorld[19478:a0b] Unlimited access to network resources
+2014-09-25 15:00:59.995 HelloWorld[19478:a0b] Resetting plugins due to page load.
+2014-09-25 15:01:00.323 HelloWorld[19478:a0b] Finished load of: file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/8C726355-A5FA-437A-A12E-F35F64EFC5F0/HelloWorld.app/www/index.html#/
+2014-09-25 15:01:24.943 HelloWorld[19478:a0b] ERROR: Error: [$rootScope:inprog] $apply already in progress
+http://errors.angularjs.org/1.3.0-build.3279+sha.ad28baa/$rootScope/inprog?p0=%24apply
+beginPhase@file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/8C726355-A5FA-437A-A12E-F35F64EFC5F0/HelloWorld.app/www/lib/angular/angular.js:13769:88
+$apply@file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/8C726355-A5FA-437A-A12E-F35F64EFC5F0/HelloWorld.app/www/lib/angular/angular.js:13521:21
+pickFriend@file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/8C726355-A5FA-437A-A12E-F35F64EFC5F0/HelloWorld.app/www/js/controllers.js:11:24
+$parseFunctionCall@file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/8C726355-A5FA-437A-A12E-F35F64EFC5F0/HelloWorld.app/www/lib/angular/angular.js:11445:23
+file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/8C726355-A5FA-437A-A12E-F35F64EFC5F0/HelloWorld.app/www/lib/angular/angular-touch.js:11:402
+$eval@file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/8C726355-A5FA-437A-A12E-F35F64EFC5F0/HelloWorld.app/www/lib/angular/angular.js:13424:28
+$apply@file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/8C726355-A5FA-437A-A12E-F35F64EFC5F0/HelloWorld.app/www/lib/angular/angular.js:13522:28
+file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/8C726355-A5FA-437A-A12E-F35F64EFC5F0/HelloWorld.app/www/lib/angular/angular-touch.js:11:389
+dispatch@http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js:3:8441
+handle@http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js:3:5144
+2014-09-25 15:05:30.527 HelloWorld[19478:a0b] ERROR: Error: [$rootScope:inprog] $apply already in progress
+http://errors.angularjs.org/1.3.0-build.3279+sha.ad28baa/$rootScope/inprog?p0=%24apply
+beginPhase@file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/8C726355-A5FA-437A-A12E-F35F64EFC5F0/HelloWorld.app/www/lib/angular/angular.js:13769:88
+$apply@file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/8C726355-A5FA-437A-A12E-F35F64EFC5F0/HelloWorld.app/www/lib/angular/angular.js:13521:21
+pickFriend@file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/8C726355-A5FA-437A-A12E-F35F64EFC5F0/HelloWorld.app/www/js/controllers.js:11:24
+$parseFunctionCall@file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/8C726355-A5FA-437A-A12E-F35F64EFC5F0/HelloWorld.app/www/lib/angular/angular.js:11445:23
+file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/8C726355-A5FA-437A-A12E-F35F64EFC5F0/HelloWorld.app/www/lib/angular/angular-touch.js:11:402
+$eval@file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/8C726355-A5FA-437A-A12E-F35F64EFC5F0/HelloWorld.app/www/lib/angular/angular.js:13424:28
+$apply@file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/8C726355-A5FA-437A-A12E-F35F64EFC5F0/HelloWorld.app/www/lib/angular/angular.js:13522:28
+file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/8C726355-A5FA-437A-A12E-F35F64EFC5F0/HelloWorld.app/www/lib/angular/angular-touch.js:11:389
+dispatch@http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js:3:8441
+handle@http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js:3:5144
+2014-09-25 15:06:18.210 HelloWorld[19899:a0b] Multi-tasking -> Device: YES, App: YES
+2014-09-25 15:06:18.225 HelloWorld[19899:a0b] Unlimited access to network resources
+2014-09-25 15:06:18.445 HelloWorld[19899:a0b] Resetting plugins due to page load.
+2014-09-25 15:06:18.744 HelloWorld[19899:a0b] Finished load of: file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/8C726355-A5FA-437A-A12E-F35F64EFC5F0/HelloWorld.app/www/index.html#/
+2014-09-25 15:06:49.880 HelloWorld[20156:a0b] Multi-tasking -> Device: YES, App: YES
+2014-09-25 15:06:49.895 HelloWorld[20156:a0b] Unlimited access to network resources
+2014-09-25 15:06:50.109 HelloWorld[20156:a0b] Resetting plugins due to page load.
+2014-09-25 15:06:50.431 HelloWorld[20156:a0b] Finished load of: file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/8C726355-A5FA-437A-A12E-F35F64EFC5F0/HelloWorld.app/www/index.html#/
+Terminating in response to SpringBoard's termination.
