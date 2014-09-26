@@ -31,16 +31,16 @@
           <div class="example">"A friend of yours just wanted to let you know that: "you're awesome". That is all."
             <!-- (pass the awesome around: -bitly) -->
           </div>
-          <a id="send">SEND THE AWESOME!</a>
+          <a id="send">SEND TEXT MESSAGE!</a>
           <div id="close" ng-click="closePopup()">X</div>
         </div>
         
         <div class="app-body">
-            <button ng-click="findContact()">find friendsssss</button>
+            <a id="findFriends" ng-click="findContact()">List My Friends</a>
             <input type="text" ng-model="search" value="" placeholder="Filter Friends"/>
             <ul id="friendList">
                   <li ng-click="pickFriend(friendObj.name.formatted, friendObj.phoneNumbers[0].value)" ng-repeat="friendObj in contacts | filter:search:strict">
-                    <div><a href="#">{{friendObj.name.formatted}}</a><a class="passButton">SEND AWESOME</a></div>
+                    <div><a href="#">{{friendObj.name.formatted}}</a><a class="passButton">SEND THE AWESOME</a></div>
                   </li>
             </ul>
             <div ng-view></div>
@@ -75,6 +75,9 @@
                 if (r == 'success'){
                   alert('success!');
                   
+                }
+                if (r == 'duplicate') {
+                  alert('duplicate!');
                 }
               },
               error: function(e){
