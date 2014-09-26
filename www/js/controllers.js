@@ -3,7 +3,10 @@ angular.module('myApp.controllers', [])
         $scope.status = "It works!";
         
         $scope.closePopup = function(){
-            $("#overlay-wrap").fadeOut(500);
+            $("#overlay-wrap").fadeOut(500,function(){
+              $("#notsent").show();
+              $("#sent").hide();
+            });
             
         }
         $scope.pickFriend = function(friend,number){

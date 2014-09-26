@@ -269,8 +269,18 @@ input{
   color: rgba(0, 0, 0, .7);
 }
 
-#overlay{
+#notsent{
+  display:none;
+}
 
+#sent{
+  line-height: 20px;
+  padding-top: 40px;
+  font-size: 14px;
+}
+
+#overlay{
+  
   height:175px;
   width:250px;
   background:#000;
@@ -314,8 +324,6 @@ input{
   .example{
     margin-bottom:30px;
     background:#fff;
-    
-    
     
     background: rgb(254,255,255); /* Old browsers */
     background: -moz-radial-gradient(center, ellipse cover,  rgba(254,255,255,1) 0%, rgba(210,235,249,1) 100%); /* FF3.6+ */

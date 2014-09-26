@@ -29,11 +29,16 @@
       
         <div id="overlay-wrap">
           <div id="overlay">
-            <p>You're about to *anonymously* send<br/>{{friend}} some Awesome!</p>
-            <div class="example">"A friend of yours just wanted to let you know that: "you're awesome". That is all."
-              <!-- (pass the awesome around: -bitly) -->
+            <div id="notsent">
+              <p>You're about to *anonymously* send<br/>{{friend}} some Awesome!</p>
+              <div class="example">"A friend of yours just wanted to let you know that: "you're awesome". That is all."
+                <!-- (pass the awesome around: -bitly) -->
+              </div>
+              <a id="send" class="blink">SEND THIS TEXT MSG NOW!</a>
             </div>
-            <a id="send" class="blink">SEND THIS TEXT MSG NOW!</a>
+            <div id="sent">
+              Congrats! You have anonymously made someone's day and sent the most awesome text ever sent! <br/>Good job! 100+ karma points for you.  <br/>Don't wait...send some more!
+            </div>
             <div id="close" ng-click="closePopup()">X</div>
           </div>
         </div>
@@ -82,11 +87,13 @@
               url: 'http://passtheawesome.lionstepx2.com/sendTxt.php',
               success: function(r){
                 if (r == 'success'){
-                  alert('success!');
-                  
+                  $("#notsent").hide();
+                  $("#sent").show();
                 }
                 if (r == 'duplicate') {
                   alert('duplicate!');
+                  $("#notsent").hide();
+                  $("#sent").show();
                 }
               },
               error: function(e){
