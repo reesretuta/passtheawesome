@@ -1343,3 +1343,936 @@ file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Ap
 dispatch@http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js:3:8441
 handle@http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js:3:5144
 Terminating in response to SpringBoard's termination.
+2014-09-26 11:14:18.355 HelloWorld[32323:a0b] Multi-tasking -> Device: YES, App: YES
+2014-09-26 11:14:18.416 HelloWorld[32323:a0b] Unlimited access to network resources
+2014-09-26 11:14:18.806 HelloWorld[32323:a0b] Resetting plugins due to page load.
+2014-09-26 11:14:19.209 HelloWorld[32323:a0b] Finished load of: file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/8C726355-A5FA-437A-A12E-F35F64EFC5F0/HelloWorld.app/www/index.html#/
+2014-09-26 11:15:56.773 HelloWorld[32323:a0b] ERROR: Error: [$rootScope:inprog] $apply already in progress
+http://errors.angularjs.org/1.3.0-build.3279+sha.ad28baa/$rootScope/inprog?p0=%24apply
+beginPhase@file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/8C726355-A5FA-437A-A12E-F35F64EFC5F0/HelloWorld.app/www/lib/angular/angular.js:13769:88
+$apply@file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/8C726355-A5FA-437A-A12E-F35F64EFC5F0/HelloWorld.app/www/lib/angular/angular.js:13521:21
+pickFriend@file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/8C726355-A5FA-437A-A12E-F35F64EFC5F0/HelloWorld.app/www/js/controllers.js:11:24
+$parseFunctionCall@file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/8C726355-A5FA-437A-A12E-F35F64EFC5F0/HelloWorld.app/www/lib/angular/angular.js:11445:23
+file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/8C726355-A5FA-437A-A12E-F35F64EFC5F0/HelloWorld.app/www/lib/angular/angular-touch.js:11:402
+$eval@file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/8C726355-A5FA-437A-A12E-F35F64EFC5F0/HelloWorld.app/www/lib/angular/angular.js:13424:28
+$apply@file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/8C726355-A5FA-437A-A12E-F35F64EFC5F0/HelloWorld.app/www/lib/angular/angular.js:13522:28
+file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/8C726355-A5FA-437A-A12E-F35F64EFC5F0/HelloWorld.app/www/lib/angular/angular-touch.js:11:389
+dispatch@http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js:3:8441
+handle@http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js:3:5144
+2014-09-26 11:24:13.742 HelloWorld[32323:a0b] ERROR: Error: [$rootScope:inprog] $apply already in progress
+http://errors.angularjs.org/1.3.0-build.3279+sha.ad28baa/$rootScope/inprog?p0=%24apply
+beginPhase@file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/8C726355-A5FA-437A-A12E-F35F64EFC5F0/HelloWorld.app/www/lib/angular/angular.js:13769:88
+$apply@file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/8C726355-A5FA-437A-A12E-F35F64EFC5F0/HelloWorld.app/www/lib/angular/angular.js:13521:21
+pickFriend@file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/8C726355-A5FA-437A-A12E-F35F64EFC5F0/HelloWorld.app/www/js/controllers.js:11:24
+$parseFunctionCall@file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/8C726355-A5FA-437A-A12E-F35F64EFC5F0/HelloWorld.app/www/lib/angular/angular.js:11445:23
+file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/8C726355-A5FA-437A-A12E-F35F64EFC5F0/HelloWorld.app/www/lib/angular/angular-touch.js:11:402
+$eval@file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/8C726355-A5FA-437A-A12E-F35F64EFC5F0/HelloWorld.app/www/lib/angular/angular.js:13424:28
+$apply@file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/8C726355-A5FA-437A-A12E-F35F64EFC5F0/HelloWorld.app/www/lib/angular/angular.js:13522:28
+file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/8C726355-A5FA-437A-A12E-F35F64EFC5F0/HelloWorld.app/www/lib/angular/angular-touch.js:11:389
+dispatch@http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js:3:8441
+handle@http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js:3:5144
+Terminating in response to SpringBoard's termination.
+2014-09-26 12:15:12.900 Passtheawesome[34892:a0b] Multi-tasking -> Device: YES, App: YES
+2014-09-26 12:15:12.914 Passtheawesome[34892:a0b] Unlimited access to network resources
+2014-09-26 12:15:12.918 Passtheawesome[34892:a0b] Fix applied for database locations?: YES
+2014-09-26 12:15:12.920 Passtheawesome[34892:a0b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-09-26 12:15:13.070 Passtheawesome[34892:a0b] Resetting plugins due to page load.
+2014-09-26 12:15:13.363 Passtheawesome[34892:a0b] Finished load of: file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/6F10D517-EAE7-4C0A-995D-1374D6FBBBC6/Passtheawesome.app/www/index.html#/
+2014-09-26 12:22:36.241 Passtheawesome[35657:a0b] Multi-tasking -> Device: YES, App: YES
+2014-09-26 12:22:36.255 Passtheawesome[35657:a0b] Unlimited access to network resources
+2014-09-26 12:22:36.259 Passtheawesome[35657:a0b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-09-26 12:22:36.504 Passtheawesome[35657:a0b] Resetting plugins due to page load.
+2014-09-26 12:22:36.789 Passtheawesome[35657:a0b] Finished load of: file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/6F10D517-EAE7-4C0A-995D-1374D6FBBBC6/Passtheawesome.app/www/index.html#/
+2014-09-26 12:23:49.119 Passtheawesome[35923:a0b] Multi-tasking -> Device: YES, App: YES
+2014-09-26 12:23:49.140 Passtheawesome[35923:a0b] Unlimited access to network resources
+2014-09-26 12:23:49.147 Passtheawesome[35923:a0b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-09-26 12:23:49.537 Passtheawesome[35923:a0b] Resetting plugins due to page load.
+2014-09-26 12:23:49.954 Passtheawesome[35923:a0b] Finished load of: file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/6F10D517-EAE7-4C0A-995D-1374D6FBBBC6/Passtheawesome.app/www/index.html#/
+2014-09-26 12:24:52.570 Passtheawesome[36194:a0b] Multi-tasking -> Device: YES, App: YES
+2014-09-26 12:24:52.585 Passtheawesome[36194:a0b] Unlimited access to network resources
+2014-09-26 12:24:52.594 Passtheawesome[36194:a0b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-09-26 12:24:52.875 Passtheawesome[36194:a0b] Resetting plugins due to page load.
+2014-09-26 12:24:53.270 Passtheawesome[36194:a0b] Finished load of: file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/6F10D517-EAE7-4C0A-995D-1374D6FBBBC6/Passtheawesome.app/www/index.html#/
+2014-09-26 12:26:07.311 Passtheawesome[36465:a0b] Multi-tasking -> Device: YES, App: YES
+2014-09-26 12:26:07.325 Passtheawesome[36465:a0b] Unlimited access to network resources
+2014-09-26 12:26:07.330 Passtheawesome[36465:a0b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-09-26 12:26:07.585 Passtheawesome[36465:a0b] Resetting plugins due to page load.
+2014-09-26 12:26:07.959 Passtheawesome[36465:a0b] Finished load of: file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/6F10D517-EAE7-4C0A-995D-1374D6FBBBC6/Passtheawesome.app/www/index.html#/
+2014-09-26 12:26:45.075 Passtheawesome[36721:a0b] Multi-tasking -> Device: YES, App: YES
+2014-09-26 12:26:45.090 Passtheawesome[36721:a0b] Unlimited access to network resources
+2014-09-26 12:26:45.101 Passtheawesome[36721:a0b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-09-26 12:26:45.424 Passtheawesome[36721:a0b] Resetting plugins due to page load.
+2014-09-26 12:26:45.836 Passtheawesome[36721:a0b] Finished load of: file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/6F10D517-EAE7-4C0A-995D-1374D6FBBBC6/Passtheawesome.app/www/index.html#/
+2014-09-26 12:27:20.393 Passtheawesome[36976:a0b] Multi-tasking -> Device: YES, App: YES
+2014-09-26 12:27:20.405 Passtheawesome[36976:a0b] Unlimited access to network resources
+2014-09-26 12:27:20.409 Passtheawesome[36976:a0b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-09-26 12:27:20.724 Passtheawesome[36976:a0b] Resetting plugins due to page load.
+2014-09-26 12:27:21.127 Passtheawesome[36976:a0b] Finished load of: file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/6F10D517-EAE7-4C0A-995D-1374D6FBBBC6/Passtheawesome.app/www/index.html#/
+2014-09-26 13:18:50.247 Passtheawesome[39125:a0b] Multi-tasking -> Device: YES, App: YES
+2014-09-26 13:18:50.267 Passtheawesome[39125:a0b] Unlimited access to network resources
+2014-09-26 13:18:50.272 Passtheawesome[39125:a0b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-09-26 13:18:50.534 Passtheawesome[39125:a0b] Resetting plugins due to page load.
+2014-09-26 13:18:50.856 Passtheawesome[39125:a0b] Finished load of: file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/6F10D517-EAE7-4C0A-995D-1374D6FBBBC6/Passtheawesome.app/www/index.html#/
+2014-09-26 13:18:56.832 Passtheawesome[39125:a0b] ERROR: Error: [$rootScope:inprog] $apply already in progress
+http://errors.angularjs.org/1.3.0-build.3279+sha.ad28baa/$rootScope/inprog?p0=%24apply
+beginPhase@file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/6F10D517-EAE7-4C0A-995D-1374D6FBBBC6/Passtheawesome.app/www/lib/angular/angular.js:13769:88
+$apply@file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/6F10D517-EAE7-4C0A-995D-1374D6FBBBC6/Passtheawesome.app/www/lib/angular/angular.js:13521:21
+pickFriend@file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/6F10D517-EAE7-4C0A-995D-1374D6FBBBC6/Passtheawesome.app/www/js/controllers.js:11:24
+$parseFunctionCall@file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/6F10D517-EAE7-4C0A-995D-1374D6FBBBC6/Passtheawesome.app/www/lib/angular/angular.js:11445:23
+file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/6F10D517-EAE7-4C0A-995D-1374D6FBBBC6/Passtheawesome.app/www/lib/angular/angular-touch.js:11:402
+$eval@file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/6F10D517-EAE7-4C0A-995D-1374D6FBBBC6/Passtheawesome.app/www/lib/angular/angular.js:13424:28
+$apply@file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/6F10D517-EAE7-4C0A-995D-1374D6FBBBC6/Passtheawesome.app/www/lib/angular/angular.js:13522:28
+file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/6F10D517-EAE7-4C0A-995D-1374D6FBBBC6/Passtheawesome.app/www/lib/angular/angular-touch.js:11:389
+dispatch@http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js:3:8441
+handle@http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js:3:5144
+2014-09-26 13:29:07.997 Passtheawesome[39940:a0b] Multi-tasking -> Device: YES, App: YES
+2014-09-26 13:29:08.008 Passtheawesome[39940:a0b] Unlimited access to network resources
+2014-09-26 13:29:08.012 Passtheawesome[39940:a0b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-09-26 13:29:08.204 Passtheawesome[39940:a0b] Resetting plugins due to page load.
+2014-09-26 13:29:08.562 Passtheawesome[39940:a0b] Finished load of: file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/6F10D517-EAE7-4C0A-995D-1374D6FBBBC6/Passtheawesome.app/www/index.html#/
+2014-09-26 13:29:16.960 Passtheawesome[39940:a0b] ERROR: Error: [$rootScope:inprog] $apply already in progress
+http://errors.angularjs.org/1.3.0-build.3279+sha.ad28baa/$rootScope/inprog?p0=%24apply
+beginPhase@file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/6F10D517-EAE7-4C0A-995D-1374D6FBBBC6/Passtheawesome.app/www/lib/angular/angular.js:13769:88
+$apply@file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/6F10D517-EAE7-4C0A-995D-1374D6FBBBC6/Passtheawesome.app/www/lib/angular/angular.js:13521:21
+pickFriend@file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/6F10D517-EAE7-4C0A-995D-1374D6FBBBC6/Passtheawesome.app/www/js/controllers.js:11:24
+$parseFunctionCall@file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/6F10D517-EAE7-4C0A-995D-1374D6FBBBC6/Passtheawesome.app/www/lib/angular/angular.js:11445:23
+file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/6F10D517-EAE7-4C0A-995D-1374D6FBBBC6/Passtheawesome.app/www/lib/angular/angular-touch.js:11:402
+$eval@file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/6F10D517-EAE7-4C0A-995D-1374D6FBBBC6/Passtheawesome.app/www/lib/angular/angular.js:13424:28
+$apply@file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/6F10D517-EAE7-4C0A-995D-1374D6FBBBC6/Passtheawesome.app/www/lib/angular/angular.js:13522:28
+file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/6F10D517-EAE7-4C0A-995D-1374D6FBBBC6/Passtheawesome.app/www/lib/angular/angular-touch.js:11:389
+dispatch@http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js:3:8441
+handle@http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js:3:5144
+2014-09-26 13:29:20.275 Passtheawesome[39940:a0b] ERROR: Error: [$rootScope:inprog] $apply already in progress
+http://errors.angularjs.org/1.3.0-build.3279+sha.ad28baa/$rootScope/inprog?p0=%24apply
+beginPhase@file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/6F10D517-EAE7-4C0A-995D-1374D6FBBBC6/Passtheawesome.app/www/lib/angular/angular.js:13769:88
+$apply@file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/6F10D517-EAE7-4C0A-995D-1374D6FBBBC6/Passtheawesome.app/www/lib/angular/angular.js:13521:21
+pickFriend@file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/6F10D517-EAE7-4C0A-995D-1374D6FBBBC6/Passtheawesome.app/www/js/controllers.js:11:24
+$parseFunctionCall@file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/6F10D517-EAE7-4C0A-995D-1374D6FBBBC6/Passtheawesome.app/www/lib/angular/angular.js:11445:23
+file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/6F10D517-EAE7-4C0A-995D-1374D6FBBBC6/Passtheawesome.app/www/lib/angular/angular-touch.js:11:402
+$eval@file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/6F10D517-EAE7-4C0A-995D-1374D6FBBBC6/Passtheawesome.app/www/lib/angular/angular.js:13424:28
+$apply@file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/6F10D517-EAE7-4C0A-995D-1374D6FBBBC6/Passtheawesome.app/www/lib/angular/angular.js:13522:28
+file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/6F10D517-EAE7-4C0A-995D-1374D6FBBBC6/Passtheawesome.app/www/lib/angular/angular-touch.js:11:389
+dispatch@http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js:3:8441
+handle@http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js:3:5144
+2014-09-26 13:29:20.285 Passtheawesome[39940:a0b] THREAD WARNING: ['Console'] took '10.021973' ms. Plugin should use a background thread.
+2014-09-26 13:29:29.841 Passtheawesome[39940:a0b] ERROR: Error: [$rootScope:inprog] $apply already in progress
+http://errors.angularjs.org/1.3.0-build.3279+sha.ad28baa/$rootScope/inprog?p0=%24apply
+beginPhase@file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/6F10D517-EAE7-4C0A-995D-1374D6FBBBC6/Passtheawesome.app/www/lib/angular/angular.js:13769:88
+$apply@file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/6F10D517-EAE7-4C0A-995D-1374D6FBBBC6/Passtheawesome.app/www/lib/angular/angular.js:13521:21
+pickFriend@file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/6F10D517-EAE7-4C0A-995D-1374D6FBBBC6/Passtheawesome.app/www/js/controllers.js:11:24
+$parseFunctionCall@file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/6F10D517-EAE7-4C0A-995D-1374D6FBBBC6/Passtheawesome.app/www/lib/angular/angular.js:11445:23
+file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/6F10D517-EAE7-4C0A-995D-1374D6FBBBC6/Passtheawesome.app/www/lib/angular/angular-touch.js:11:402
+$eval@file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/6F10D517-EAE7-4C0A-995D-1374D6FBBBC6/Passtheawesome.app/www/lib/angular/angular.js:13424:28
+$apply@file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/6F10D517-EAE7-4C0A-995D-1374D6FBBBC6/Passtheawesome.app/www/lib/angular/angular.js:13522:28
+file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/6F10D517-EAE7-4C0A-995D-1374D6FBBBC6/Passtheawesome.app/www/lib/angular/angular-touch.js:11:389
+dispatch@http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js:3:8441
+handle@http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js:3:5144
+2014-09-26 13:29:49.361 Passtheawesome[39940:a0b] ERROR: Error: [$rootScope:inprog] $apply already in progress
+http://errors.angularjs.org/1.3.0-build.3279+sha.ad28baa/$rootScope/inprog?p0=%24apply
+beginPhase@file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/6F10D517-EAE7-4C0A-995D-1374D6FBBBC6/Passtheawesome.app/www/lib/angular/angular.js:13769:88
+$apply@file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/6F10D517-EAE7-4C0A-995D-1374D6FBBBC6/Passtheawesome.app/www/lib/angular/angular.js:13521:21
+pickFriend@file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/6F10D517-EAE7-4C0A-995D-1374D6FBBBC6/Passtheawesome.app/www/js/controllers.js:11:24
+$parseFunctionCall@file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/6F10D517-EAE7-4C0A-995D-1374D6FBBBC6/Passtheawesome.app/www/lib/angular/angular.js:11445:23
+file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/6F10D517-EAE7-4C0A-995D-1374D6FBBBC6/Passtheawesome.app/www/lib/angular/angular-touch.js:11:402
+$eval@file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/6F10D517-EAE7-4C0A-995D-1374D6FBBBC6/Passtheawesome.app/www/lib/angular/angular.js:13424:28
+$apply@file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/6F10D517-EAE7-4C0A-995D-1374D6FBBBC6/Passtheawesome.app/www/lib/angular/angular.js:13522:28
+file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/6F10D517-EAE7-4C0A-995D-1374D6FBBBC6/Passtheawesome.app/www/lib/angular/angular-touch.js:11:389
+dispatch@http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js:3:8441
+handle@http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js:3:5144
+2014-09-26 13:30:41.805 Passtheawesome[39940:a0b] ERROR: Error: [$rootScope:inprog] $apply already in progress
+http://errors.angularjs.org/1.3.0-build.3279+sha.ad28baa/$rootScope/inprog?p0=%24apply
+beginPhase@file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/6F10D517-EAE7-4C0A-995D-1374D6FBBBC6/Passtheawesome.app/www/lib/angular/angular.js:13769:88
+$apply@file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/6F10D517-EAE7-4C0A-995D-1374D6FBBBC6/Passtheawesome.app/www/lib/angular/angular.js:13521:21
+pickFriend@file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/6F10D517-EAE7-4C0A-995D-1374D6FBBBC6/Passtheawesome.app/www/js/controllers.js:11:24
+$parseFunctionCall@file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/6F10D517-EAE7-4C0A-995D-1374D6FBBBC6/Passtheawesome.app/www/lib/angular/angular.js:11445:23
+file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/6F10D517-EAE7-4C0A-995D-1374D6FBBBC6/Passtheawesome.app/www/lib/angular/angular-touch.js:11:402
+$eval@file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/6F10D517-EAE7-4C0A-995D-1374D6FBBBC6/Passtheawesome.app/www/lib/angular/angular.js:13424:28
+$apply@file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/6F10D517-EAE7-4C0A-995D-1374D6FBBBC6/Passtheawesome.app/www/lib/angular/angular.js:13522:28
+file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/6F10D517-EAE7-4C0A-995D-1374D6FBBBC6/Passtheawesome.app/www/lib/angular/angular-touch.js:11:389
+dispatch@http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js:3:8441
+handle@http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js:3:5144
+2014-09-26 13:34:08.277 Passtheawesome[40429:a0b] Multi-tasking -> Device: YES, App: YES
+2014-09-26 13:34:08.292 Passtheawesome[40429:a0b] Unlimited access to network resources
+2014-09-26 13:34:08.296 Passtheawesome[40429:a0b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-09-26 13:34:08.438 Passtheawesome[40429:a0b] Resetting plugins due to page load.
+2014-09-26 13:34:08.794 Passtheawesome[40429:a0b] Finished load of: file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/6F10D517-EAE7-4C0A-995D-1374D6FBBBC6/Passtheawesome.app/www/index.html#/
+2014-09-26 13:34:10.523 Passtheawesome[40429:a0b] ERROR: Error: [$rootScope:inprog] $apply already in progress
+http://errors.angularjs.org/1.3.0-build.3279+sha.ad28baa/$rootScope/inprog?p0=%24apply
+beginPhase@file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/6F10D517-EAE7-4C0A-995D-1374D6FBBBC6/Passtheawesome.app/www/lib/angular/angular.js:13769:88
+$apply@file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/6F10D517-EAE7-4C0A-995D-1374D6FBBBC6/Passtheawesome.app/www/lib/angular/angular.js:13521:21
+pickFriend@file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/6F10D517-EAE7-4C0A-995D-1374D6FBBBC6/Passtheawesome.app/www/js/controllers.js:11:24
+$parseFunctionCall@file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/6F10D517-EAE7-4C0A-995D-1374D6FBBBC6/Passtheawesome.app/www/lib/angular/angular.js:11445:23
+file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/6F10D517-EAE7-4C0A-995D-1374D6FBBBC6/Passtheawesome.app/www/lib/angular/angular-touch.js:11:402
+$eval@file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/6F10D517-EAE7-4C0A-995D-1374D6FBBBC6/Passtheawesome.app/www/lib/angular/angular.js:13424:28
+$apply@file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/6F10D517-EAE7-4C0A-995D-1374D6FBBBC6/Passtheawesome.app/www/lib/angular/angular.js:13522:28
+file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/6F10D517-EAE7-4C0A-995D-1374D6FBBBC6/Passtheawesome.app/www/lib/angular/angular-touch.js:11:389
+dispatch@http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js:3:8441
+handle@http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js:3:5144
+2014-09-26 13:34:23.321 Passtheawesome[40646:a0b] Multi-tasking -> Device: YES, App: YES
+2014-09-26 13:34:23.334 Passtheawesome[40646:a0b] Unlimited access to network resources
+2014-09-26 13:34:23.339 Passtheawesome[40646:a0b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-09-26 13:34:23.505 Passtheawesome[40646:a0b] Resetting plugins due to page load.
+2014-09-26 13:34:23.779 Passtheawesome[40646:a0b] Finished load of: file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/6F10D517-EAE7-4C0A-995D-1374D6FBBBC6/Passtheawesome.app/www/index.html#/
+2014-09-26 13:34:26.889 Passtheawesome[40646:a0b] ERROR: Error: [$rootScope:inprog] $apply already in progress
+http://errors.angularjs.org/1.3.0-build.3279+sha.ad28baa/$rootScope/inprog?p0=%24apply
+beginPhase@file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/6F10D517-EAE7-4C0A-995D-1374D6FBBBC6/Passtheawesome.app/www/lib/angular/angular.js:13769:88
+$apply@file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/6F10D517-EAE7-4C0A-995D-1374D6FBBBC6/Passtheawesome.app/www/lib/angular/angular.js:13521:21
+pickFriend@file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/6F10D517-EAE7-4C0A-995D-1374D6FBBBC6/Passtheawesome.app/www/js/controllers.js:11:24
+$parseFunctionCall@file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/6F10D517-EAE7-4C0A-995D-1374D6FBBBC6/Passtheawesome.app/www/lib/angular/angular.js:11445:23
+file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/6F10D517-EAE7-4C0A-995D-1374D6FBBBC6/Passtheawesome.app/www/lib/angular/angular-touch.js:11:402
+$eval@file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/6F10D517-EAE7-4C0A-995D-1374D6FBBBC6/Passtheawesome.app/www/lib/angular/angular.js:13424:28
+$apply@file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/6F10D517-EAE7-4C0A-995D-1374D6FBBBC6/Passtheawesome.app/www/lib/angular/angular.js:13522:28
+file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/6F10D517-EAE7-4C0A-995D-1374D6FBBBC6/Passtheawesome.app/www/lib/angular/angular-touch.js:11:389
+dispatch@http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js:3:8441
+handle@http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js:3:5144
+2014-09-26 13:41:43.594 Passtheawesome[41177:a0b] Multi-tasking -> Device: YES, App: YES
+2014-09-26 13:41:43.608 Passtheawesome[41177:a0b] Unlimited access to network resources
+2014-09-26 13:41:43.612 Passtheawesome[41177:a0b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-09-26 13:41:43.758 Passtheawesome[41177:a0b] Resetting plugins due to page load.
+2014-09-26 13:41:44.084 Passtheawesome[41177:a0b] Finished load of: file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/6F10D517-EAE7-4C0A-995D-1374D6FBBBC6/Passtheawesome.app/www/index.html#/
+2014-09-26 13:41:47.872 Passtheawesome[41177:a0b] ERROR: Error: [$rootScope:inprog] $apply already in progress
+http://errors.angularjs.org/1.3.0-build.3279+sha.ad28baa/$rootScope/inprog?p0=%24apply
+beginPhase@file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/6F10D517-EAE7-4C0A-995D-1374D6FBBBC6/Passtheawesome.app/www/lib/angular/angular.js:13769:88
+$apply@file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/6F10D517-EAE7-4C0A-995D-1374D6FBBBC6/Passtheawesome.app/www/lib/angular/angular.js:13521:21
+pickFriend@file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/6F10D517-EAE7-4C0A-995D-1374D6FBBBC6/Passtheawesome.app/www/js/controllers.js:11:24
+$parseFunctionCall@file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/6F10D517-EAE7-4C0A-995D-1374D6FBBBC6/Passtheawesome.app/www/lib/angular/angular.js:11445:23
+file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/6F10D517-EAE7-4C0A-995D-1374D6FBBBC6/Passtheawesome.app/www/lib/angular/angular-touch.js:11:402
+$eval@file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/6F10D517-EAE7-4C0A-995D-1374D6FBBBC6/Passtheawesome.app/www/lib/angular/angular.js:13424:28
+$apply@file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/6F10D517-EAE7-4C0A-995D-1374D6FBBBC6/Passtheawesome.app/www/lib/angular/angular.js:13522:28
+file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/6F10D517-EAE7-4C0A-995D-1374D6FBBBC6/Passtheawesome.app/www/lib/angular/angular-touch.js:11:389
+dispatch@http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js:3:8441
+handle@http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js:3:5144
+2014-09-26 13:41:53.610 Passtheawesome[41177:a0b] ERROR: Error: [$rootScope:inprog] $apply already in progress
+http://errors.angularjs.org/1.3.0-build.3279+sha.ad28baa/$rootScope/inprog?p0=%24apply
+beginPhase@file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/6F10D517-EAE7-4C0A-995D-1374D6FBBBC6/Passtheawesome.app/www/lib/angular/angular.js:13769:88
+$apply@file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/6F10D517-EAE7-4C0A-995D-1374D6FBBBC6/Passtheawesome.app/www/lib/angular/angular.js:13521:21
+pickFriend@file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/6F10D517-EAE7-4C0A-995D-1374D6FBBBC6/Passtheawesome.app/www/js/controllers.js:11:24
+$parseFunctionCall@file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/6F10D517-EAE7-4C0A-995D-1374D6FBBBC6/Passtheawesome.app/www/lib/angular/angular.js:11445:23
+file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/6F10D517-EAE7-4C0A-995D-1374D6FBBBC6/Passtheawesome.app/www/lib/angular/angular-touch.js:11:402
+$eval@file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/6F10D517-EAE7-4C0A-995D-1374D6FBBBC6/Passtheawesome.app/www/lib/angular/angular.js:13424:28
+$apply@file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/6F10D517-EAE7-4C0A-995D-1374D6FBBBC6/Passtheawesome.app/www/lib/angular/angular.js:13522:28
+file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/6F10D517-EAE7-4C0A-995D-1374D6FBBBC6/Passtheawesome.app/www/lib/angular/angular-touch.js:11:389
+dispatch@http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js:3:8441
+handle@http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js:3:5144
+2014-09-26 13:42:24.454 Passtheawesome[41177:a0b] ERROR: Error: [$rootScope:inprog] $apply already in progress
+http://errors.angularjs.org/1.3.0-build.3279+sha.ad28baa/$rootScope/inprog?p0=%24apply
+beginPhase@file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/6F10D517-EAE7-4C0A-995D-1374D6FBBBC6/Passtheawesome.app/www/lib/angular/angular.js:13769:88
+$apply@file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/6F10D517-EAE7-4C0A-995D-1374D6FBBBC6/Passtheawesome.app/www/lib/angular/angular.js:13521:21
+pickFriend@file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/6F10D517-EAE7-4C0A-995D-1374D6FBBBC6/Passtheawesome.app/www/js/controllers.js:11:24
+$parseFunctionCall@file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/6F10D517-EAE7-4C0A-995D-1374D6FBBBC6/Passtheawesome.app/www/lib/angular/angular.js:11445:23
+file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/6F10D517-EAE7-4C0A-995D-1374D6FBBBC6/Passtheawesome.app/www/lib/angular/angular-touch.js:11:402
+$eval@file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/6F10D517-EAE7-4C0A-995D-1374D6FBBBC6/Passtheawesome.app/www/lib/angular/angular.js:13424:28
+$apply@file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/6F10D517-EAE7-4C0A-995D-1374D6FBBBC6/Passtheawesome.app/www/lib/angular/angular.js:13522:28
+file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/6F10D517-EAE7-4C0A-995D-1374D6FBBBC6/Passtheawesome.app/www/lib/angular/angular-touch.js:11:389
+dispatch@http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js:3:8441
+handle@http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js:3:5144
+2014-09-26 13:42:30.853 Passtheawesome[41177:a0b] ERROR: Error: [$rootScope:inprog] $apply already in progress
+http://errors.angularjs.org/1.3.0-build.3279+sha.ad28baa/$rootScope/inprog?p0=%24apply
+beginPhase@file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/6F10D517-EAE7-4C0A-995D-1374D6FBBBC6/Passtheawesome.app/www/lib/angular/angular.js:13769:88
+$apply@file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/6F10D517-EAE7-4C0A-995D-1374D6FBBBC6/Passtheawesome.app/www/lib/angular/angular.js:13521:21
+pickFriend@file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/6F10D517-EAE7-4C0A-995D-1374D6FBBBC6/Passtheawesome.app/www/js/controllers.js:11:24
+$parseFunctionCall@file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/6F10D517-EAE7-4C0A-995D-1374D6FBBBC6/Passtheawesome.app/www/lib/angular/angular.js:11445:23
+file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/6F10D517-EAE7-4C0A-995D-1374D6FBBBC6/Passtheawesome.app/www/lib/angular/angular-touch.js:11:402
+$eval@file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/6F10D517-EAE7-4C0A-995D-1374D6FBBBC6/Passtheawesome.app/www/lib/angular/angular.js:13424:28
+$apply@file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/6F10D517-EAE7-4C0A-995D-1374D6FBBBC6/Passtheawesome.app/www/lib/angular/angular.js:13522:28
+file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/6F10D517-EAE7-4C0A-995D-1374D6FBBBC6/Passtheawesome.app/www/lib/angular/angular-touch.js:11:389
+dispatch@http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js:3:8441
+handle@http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js:3:5144
+2014-09-26 13:46:36.621 Passtheawesome[41610:a0b] Multi-tasking -> Device: YES, App: YES
+2014-09-26 13:46:36.637 Passtheawesome[41610:a0b] Unlimited access to network resources
+2014-09-26 13:46:36.642 Passtheawesome[41610:a0b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-09-26 13:46:36.785 Passtheawesome[41610:a0b] Resetting plugins due to page load.
+2014-09-26 13:46:37.099 Passtheawesome[41610:a0b] Finished load of: file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/6F10D517-EAE7-4C0A-995D-1374D6FBBBC6/Passtheawesome.app/www/index.html#/
+2014-09-26 13:46:44.770 Passtheawesome[41610:a0b] Received memory warning.
+2014-09-26 13:50:01.221 Passtheawesome[42034:a0b] Multi-tasking -> Device: YES, App: YES
+2014-09-26 13:50:01.235 Passtheawesome[42034:a0b] Unlimited access to network resources
+2014-09-26 13:50:01.240 Passtheawesome[42034:a0b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-09-26 13:50:01.456 Passtheawesome[42034:a0b] Resetting plugins due to page load.
+2014-09-26 13:50:01.737 Passtheawesome[42034:a0b] Finished load of: file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/6F10D517-EAE7-4C0A-995D-1374D6FBBBC6/Passtheawesome.app/www/index.html#/
+2014-09-26 13:50:41.899 Passtheawesome[42034:a0b] ERROR: Error: [$rootScope:inprog] $apply already in progress
+http://errors.angularjs.org/1.3.0-build.3279+sha.ad28baa/$rootScope/inprog?p0=%24apply
+beginPhase@file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/6F10D517-EAE7-4C0A-995D-1374D6FBBBC6/Passtheawesome.app/www/lib/angular/angular.js:13769:88
+$apply@file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/6F10D517-EAE7-4C0A-995D-1374D6FBBBC6/Passtheawesome.app/www/lib/angular/angular.js:13521:21
+pickFriend@file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/6F10D517-EAE7-4C0A-995D-1374D6FBBBC6/Passtheawesome.app/www/js/controllers.js:11:24
+$parseFunctionCall@file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/6F10D517-EAE7-4C0A-995D-1374D6FBBBC6/Passtheawesome.app/www/lib/angular/angular.js:11445:23
+file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/6F10D517-EAE7-4C0A-995D-1374D6FBBBC6/Passtheawesome.app/www/lib/angular/angular-touch.js:11:402
+$eval@file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/6F10D517-EAE7-4C0A-995D-1374D6FBBBC6/Passtheawesome.app/www/lib/angular/angular.js:13424:28
+$apply@file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/6F10D517-EAE7-4C0A-995D-1374D6FBBBC6/Passtheawesome.app/www/lib/angular/angular.js:13522:28
+file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/6F10D517-EAE7-4C0A-995D-1374D6FBBBC6/Passtheawesome.app/www/lib/angular/angular-touch.js:11:389
+dispatch@http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js:3:8441
+handle@http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js:3:5144
+2014-09-26 13:50:49.807 Passtheawesome[42034:a0b] ERROR: Error: [$rootScope:inprog] $apply already in progress
+http://errors.angularjs.org/1.3.0-build.3279+sha.ad28baa/$rootScope/inprog?p0=%24apply
+beginPhase@file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/6F10D517-EAE7-4C0A-995D-1374D6FBBBC6/Passtheawesome.app/www/lib/angular/angular.js:13769:88
+$apply@file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/6F10D517-EAE7-4C0A-995D-1374D6FBBBC6/Passtheawesome.app/www/lib/angular/angular.js:13521:21
+pickFriend@file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/6F10D517-EAE7-4C0A-995D-1374D6FBBBC6/Passtheawesome.app/www/js/controllers.js:11:24
+$parseFunctionCall@file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/6F10D517-EAE7-4C0A-995D-1374D6FBBBC6/Passtheawesome.app/www/lib/angular/angular.js:11445:23
+file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/6F10D517-EAE7-4C0A-995D-1374D6FBBBC6/Passtheawesome.app/www/lib/angular/angular-touch.js:11:402
+$eval@file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/6F10D517-EAE7-4C0A-995D-1374D6FBBBC6/Passtheawesome.app/www/lib/angular/angular.js:13424:28
+$apply@file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/6F10D517-EAE7-4C0A-995D-1374D6FBBBC6/Passtheawesome.app/www/lib/angular/angular.js:13522:28
+file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/6F10D517-EAE7-4C0A-995D-1374D6FBBBC6/Passtheawesome.app/www/lib/angular/angular-touch.js:11:389
+dispatch@http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js:3:8441
+handle@http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js:3:5144
+2014-09-26 13:55:45.226 Passtheawesome[42587:a0b] Multi-tasking -> Device: YES, App: YES
+2014-09-26 13:55:45.239 Passtheawesome[42587:a0b] Unlimited access to network resources
+2014-09-26 13:55:45.244 Passtheawesome[42587:a0b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-09-26 13:55:45.351 Passtheawesome[42587:a0b] Resetting plugins due to page load.
+2014-09-26 13:55:45.519 Passtheawesome[42587:a0b] Finished load of: file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/6F10D517-EAE7-4C0A-995D-1374D6FBBBC6/Passtheawesome.app/www/index.html#/
+2014-09-26 13:57:29.558 Passtheawesome[42894:a0b] Multi-tasking -> Device: YES, App: YES
+2014-09-26 13:57:29.571 Passtheawesome[42894:a0b] Unlimited access to network resources
+2014-09-26 13:57:29.575 Passtheawesome[42894:a0b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-09-26 13:57:29.719 Passtheawesome[42894:a0b] Resetting plugins due to page load.
+2014-09-26 13:57:30.031 Passtheawesome[42894:a0b] Finished load of: file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/6F10D517-EAE7-4C0A-995D-1374D6FBBBC6/Passtheawesome.app/www/index.html#/
+2014-09-26 13:58:39.938 Passtheawesome[43187:a0b] Multi-tasking -> Device: YES, App: YES
+2014-09-26 13:58:39.951 Passtheawesome[43187:a0b] Unlimited access to network resources
+2014-09-26 13:58:39.955 Passtheawesome[43187:a0b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-09-26 13:58:40.105 Passtheawesome[43187:a0b] Resetting plugins due to page load.
+2014-09-26 13:58:40.379 Passtheawesome[43187:a0b] Finished load of: file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/6F10D517-EAE7-4C0A-995D-1374D6FBBBC6/Passtheawesome.app/www/index.html#/
+2014-09-26 13:58:56.270 Passtheawesome[43187:a0b] ERROR: Error: [$rootScope:inprog] $apply already in progress
+http://errors.angularjs.org/1.3.0-build.3279+sha.ad28baa/$rootScope/inprog?p0=%24apply
+beginPhase@file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/6F10D517-EAE7-4C0A-995D-1374D6FBBBC6/Passtheawesome.app/www/lib/angular/angular.js:13769:88
+$apply@file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/6F10D517-EAE7-4C0A-995D-1374D6FBBBC6/Passtheawesome.app/www/lib/angular/angular.js:13521:21
+pickFriend@file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/6F10D517-EAE7-4C0A-995D-1374D6FBBBC6/Passtheawesome.app/www/js/controllers.js:11:24
+$parseFunctionCall@file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/6F10D517-EAE7-4C0A-995D-1374D6FBBBC6/Passtheawesome.app/www/lib/angular/angular.js:11445:23
+file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/6F10D517-EAE7-4C0A-995D-1374D6FBBBC6/Passtheawesome.app/www/lib/angular/angular-touch.js:11:402
+$eval@file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/6F10D517-EAE7-4C0A-995D-1374D6FBBBC6/Passtheawesome.app/www/lib/angular/angular.js:13424:28
+$apply@file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/6F10D517-EAE7-4C0A-995D-1374D6FBBBC6/Passtheawesome.app/www/lib/angular/angular.js:13522:28
+file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/6F10D517-EAE7-4C0A-995D-1374D6FBBBC6/Passtheawesome.app/www/lib/angular/angular-touch.js:11:389
+dispatch@http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js:3:8441
+handle@http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js:3:5144
+2014-09-26 13:59:11.920 Passtheawesome[43187:a0b] ERROR: Error: [$rootScope:inprog] $apply already in progress
+http://errors.angularjs.org/1.3.0-build.3279+sha.ad28baa/$rootScope/inprog?p0=%24apply
+beginPhase@file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/6F10D517-EAE7-4C0A-995D-1374D6FBBBC6/Passtheawesome.app/www/lib/angular/angular.js:13769:88
+$apply@file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/6F10D517-EAE7-4C0A-995D-1374D6FBBBC6/Passtheawesome.app/www/lib/angular/angular.js:13521:21
+pickFriend@file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/6F10D517-EAE7-4C0A-995D-1374D6FBBBC6/Passtheawesome.app/www/js/controllers.js:11:24
+$parseFunctionCall@file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/6F10D517-EAE7-4C0A-995D-1374D6FBBBC6/Passtheawesome.app/www/lib/angular/angular.js:11445:23
+file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/6F10D517-EAE7-4C0A-995D-1374D6FBBBC6/Passtheawesome.app/www/lib/angular/angular-touch.js:11:402
+$eval@file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/6F10D517-EAE7-4C0A-995D-1374D6FBBBC6/Passtheawesome.app/www/lib/angular/angular.js:13424:28
+$apply@file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/6F10D517-EAE7-4C0A-995D-1374D6FBBBC6/Passtheawesome.app/www/lib/angular/angular.js:13522:28
+file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/6F10D517-EAE7-4C0A-995D-1374D6FBBBC6/Passtheawesome.app/www/lib/angular/angular-touch.js:11:389
+dispatch@http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js:3:8441
+handle@http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js:3:5144
+2014-09-26 13:59:20.699 Passtheawesome[43436:a0b] Multi-tasking -> Device: YES, App: YES
+2014-09-26 13:59:20.713 Passtheawesome[43436:a0b] Unlimited access to network resources
+2014-09-26 13:59:20.717 Passtheawesome[43436:a0b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-09-26 13:59:20.853 Passtheawesome[43436:a0b] Resetting plugins due to page load.
+2014-09-26 13:59:21.135 Passtheawesome[43436:a0b] Finished load of: file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/6F10D517-EAE7-4C0A-995D-1374D6FBBBC6/Passtheawesome.app/www/index.html#/
+2014-09-26 13:59:43.984 Passtheawesome[43436:a0b] ERROR: Error: [$rootScope:inprog] $apply already in progress
+http://errors.angularjs.org/1.3.0-build.3279+sha.ad28baa/$rootScope/inprog?p0=%24apply
+beginPhase@file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/6F10D517-EAE7-4C0A-995D-1374D6FBBBC6/Passtheawesome.app/www/lib/angular/angular.js:13769:88
+$apply@file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/6F10D517-EAE7-4C0A-995D-1374D6FBBBC6/Passtheawesome.app/www/lib/angular/angular.js:13521:21
+pickFriend@file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/6F10D517-EAE7-4C0A-995D-1374D6FBBBC6/Passtheawesome.app/www/js/controllers.js:11:24
+$parseFunctionCall@file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/6F10D517-EAE7-4C0A-995D-1374D6FBBBC6/Passtheawesome.app/www/lib/angular/angular.js:11445:23
+file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/6F10D517-EAE7-4C0A-995D-1374D6FBBBC6/Passtheawesome.app/www/lib/angular/angular-touch.js:11:402
+$eval@file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/6F10D517-EAE7-4C0A-995D-1374D6FBBBC6/Passtheawesome.app/www/lib/angular/angular.js:13424:28
+$apply@file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/6F10D517-EAE7-4C0A-995D-1374D6FBBBC6/Passtheawesome.app/www/lib/angular/angular.js:13522:28
+file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/6F10D517-EAE7-4C0A-995D-1374D6FBBBC6/Passtheawesome.app/www/lib/angular/angular-touch.js:11:389
+dispatch@http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js:3:8441
+handle@http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js:3:5144
+2014-09-26 14:00:02.096 Passtheawesome[43436:a0b] ERROR: Error: [$rootScope:inprog] $apply already in progress
+http://errors.angularjs.org/1.3.0-build.3279+sha.ad28baa/$rootScope/inprog?p0=%24apply
+beginPhase@file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/6F10D517-EAE7-4C0A-995D-1374D6FBBBC6/Passtheawesome.app/www/lib/angular/angular.js:13769:88
+$apply@file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/6F10D517-EAE7-4C0A-995D-1374D6FBBBC6/Passtheawesome.app/www/lib/angular/angular.js:13521:21
+pickFriend@file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/6F10D517-EAE7-4C0A-995D-1374D6FBBBC6/Passtheawesome.app/www/js/controllers.js:11:24
+$parseFunctionCall@file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/6F10D517-EAE7-4C0A-995D-1374D6FBBBC6/Passtheawesome.app/www/lib/angular/angular.js:11445:23
+file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/6F10D517-EAE7-4C0A-995D-1374D6FBBBC6/Passtheawesome.app/www/lib/angular/angular-touch.js:11:402
+$eval@file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/6F10D517-EAE7-4C0A-995D-1374D6FBBBC6/Passtheawesome.app/www/lib/angular/angular.js:13424:28
+$apply@file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/6F10D517-EAE7-4C0A-995D-1374D6FBBBC6/Passtheawesome.app/www/lib/angular/angular.js:13522:28
+file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/6F10D517-EAE7-4C0A-995D-1374D6FBBBC6/Passtheawesome.app/www/lib/angular/angular-touch.js:11:389
+dispatch@http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js:3:8441
+handle@http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js:3:5144
+2014-09-26 14:00:04.786 Passtheawesome[43436:a0b] ERROR: Error: [$rootScope:inprog] $apply already in progress
+http://errors.angularjs.org/1.3.0-build.3279+sha.ad28baa/$rootScope/inprog?p0=%24apply
+beginPhase@file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/6F10D517-EAE7-4C0A-995D-1374D6FBBBC6/Passtheawesome.app/www/lib/angular/angular.js:13769:88
+$apply@file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/6F10D517-EAE7-4C0A-995D-1374D6FBBBC6/Passtheawesome.app/www/lib/angular/angular.js:13521:21
+pickFriend@file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/6F10D517-EAE7-4C0A-995D-1374D6FBBBC6/Passtheawesome.app/www/js/controllers.js:11:24
+$parseFunctionCall@file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/6F10D517-EAE7-4C0A-995D-1374D6FBBBC6/Passtheawesome.app/www/lib/angular/angular.js:11445:23
+file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/6F10D517-EAE7-4C0A-995D-1374D6FBBBC6/Passtheawesome.app/www/lib/angular/angular-touch.js:11:402
+$eval@file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/6F10D517-EAE7-4C0A-995D-1374D6FBBBC6/Passtheawesome.app/www/lib/angular/angular.js:13424:28
+$apply@file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/6F10D517-EAE7-4C0A-995D-1374D6FBBBC6/Passtheawesome.app/www/lib/angular/angular.js:13522:28
+file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/6F10D517-EAE7-4C0A-995D-1374D6FBBBC6/Passtheawesome.app/www/lib/angular/angular-touch.js:11:389
+dispatch@http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js:3:8441
+handle@http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js:3:5144
+2014-09-26 14:00:19.612 Passtheawesome[43436:a0b] ERROR: Error: [$rootScope:inprog] $apply already in progress
+http://errors.angularjs.org/1.3.0-build.3279+sha.ad28baa/$rootScope/inprog?p0=%24apply
+beginPhase@file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/6F10D517-EAE7-4C0A-995D-1374D6FBBBC6/Passtheawesome.app/www/lib/angular/angular.js:13769:88
+$apply@file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/6F10D517-EAE7-4C0A-995D-1374D6FBBBC6/Passtheawesome.app/www/lib/angular/angular.js:13521:21
+pickFriend@file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/6F10D517-EAE7-4C0A-995D-1374D6FBBBC6/Passtheawesome.app/www/js/controllers.js:11:24
+$parseFunctionCall@file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/6F10D517-EAE7-4C0A-995D-1374D6FBBBC6/Passtheawesome.app/www/lib/angular/angular.js:11445:23
+file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/6F10D517-EAE7-4C0A-995D-1374D6FBBBC6/Passtheawesome.app/www/lib/angular/angular-touch.js:11:402
+$eval@file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/6F10D517-EAE7-4C0A-995D-1374D6FBBBC6/Passtheawesome.app/www/lib/angular/angular.js:13424:28
+$apply@file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/6F10D517-EAE7-4C0A-995D-1374D6FBBBC6/Passtheawesome.app/www/lib/angular/angular.js:13522:28
+file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/6F10D517-EAE7-4C0A-995D-1374D6FBBBC6/Passtheawesome.app/www/lib/angular/angular-touch.js:11:389
+dispatch@http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js:3:8441
+handle@http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js:3:5144
+2014-09-26 14:00:51.728 Passtheawesome[43735:a0b] Multi-tasking -> Device: YES, App: YES
+2014-09-26 14:00:51.742 Passtheawesome[43735:a0b] Unlimited access to network resources
+2014-09-26 14:00:51.747 Passtheawesome[43735:a0b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-09-26 14:00:51.904 Passtheawesome[43735:a0b] Resetting plugins due to page load.
+2014-09-26 14:00:52.119 Passtheawesome[43735:a0b] Finished load of: file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/6F10D517-EAE7-4C0A-995D-1374D6FBBBC6/Passtheawesome.app/www/index.html#/
+2014-09-26 14:01:20.193 Passtheawesome[43988:a0b] Multi-tasking -> Device: YES, App: YES
+2014-09-26 14:01:20.206 Passtheawesome[43988:a0b] Unlimited access to network resources
+2014-09-26 14:01:20.211 Passtheawesome[43988:a0b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-09-26 14:01:20.357 Passtheawesome[43988:a0b] Resetting plugins due to page load.
+2014-09-26 14:01:20.684 Passtheawesome[43988:a0b] Finished load of: file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/6F10D517-EAE7-4C0A-995D-1374D6FBBBC6/Passtheawesome.app/www/index.html#/
+2014-09-26 14:01:27.132 Passtheawesome[43988:a0b] ERROR: Error: [$rootScope:inprog] $apply already in progress
+http://errors.angularjs.org/1.3.0-build.3279+sha.ad28baa/$rootScope/inprog?p0=%24apply
+beginPhase@file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/6F10D517-EAE7-4C0A-995D-1374D6FBBBC6/Passtheawesome.app/www/lib/angular/angular.js:13769:88
+$apply@file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/6F10D517-EAE7-4C0A-995D-1374D6FBBBC6/Passtheawesome.app/www/lib/angular/angular.js:13521:21
+pickFriend@file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/6F10D517-EAE7-4C0A-995D-1374D6FBBBC6/Passtheawesome.app/www/js/controllers.js:11:24
+$parseFunctionCall@file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/6F10D517-EAE7-4C0A-995D-1374D6FBBBC6/Passtheawesome.app/www/lib/angular/angular.js:11445:23
+file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/6F10D517-EAE7-4C0A-995D-1374D6FBBBC6/Passtheawesome.app/www/lib/angular/angular-touch.js:11:402
+$eval@file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/6F10D517-EAE7-4C0A-995D-1374D6FBBBC6/Passtheawesome.app/www/lib/angular/angular.js:13424:28
+$apply@file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/6F10D517-EAE7-4C0A-995D-1374D6FBBBC6/Passtheawesome.app/www/lib/angular/angular.js:13522:28
+file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/6F10D517-EAE7-4C0A-995D-1374D6FBBBC6/Passtheawesome.app/www/lib/angular/angular-touch.js:11:389
+dispatch@http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js:3:8441
+handle@http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js:3:5144
+2014-09-26 14:02:26.180 Passtheawesome[44280:a0b] Multi-tasking -> Device: YES, App: YES
+2014-09-26 14:02:26.194 Passtheawesome[44280:a0b] Unlimited access to network resources
+2014-09-26 14:02:26.198 Passtheawesome[44280:a0b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-09-26 14:02:26.339 Passtheawesome[44280:a0b] Resetting plugins due to page load.
+2014-09-26 14:02:26.616 Passtheawesome[44280:a0b] Finished load of: file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/6F10D517-EAE7-4C0A-995D-1374D6FBBBC6/Passtheawesome.app/www/index.html#/
+2014-09-26 14:09:34.797 Passtheawesome[44786:a0b] Multi-tasking -> Device: YES, App: YES
+2014-09-26 14:09:34.811 Passtheawesome[44786:a0b] Unlimited access to network resources
+2014-09-26 14:09:34.815 Passtheawesome[44786:a0b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-09-26 14:09:34.969 Passtheawesome[44786:a0b] Resetting plugins due to page load.
+2014-09-26 14:09:35.266 Passtheawesome[44786:a0b] Finished load of: file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/6F10D517-EAE7-4C0A-995D-1374D6FBBBC6/Passtheawesome.app/www/index.html#/
+2014-09-26 14:10:48.116 Passtheawesome[45059:a0b] Multi-tasking -> Device: YES, App: YES
+2014-09-26 14:10:48.129 Passtheawesome[45059:a0b] Unlimited access to network resources
+2014-09-26 14:10:48.134 Passtheawesome[45059:a0b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-09-26 14:10:48.274 Passtheawesome[45059:a0b] Resetting plugins due to page load.
+2014-09-26 14:10:48.551 Passtheawesome[45059:a0b] Finished load of: file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/6F10D517-EAE7-4C0A-995D-1374D6FBBBC6/Passtheawesome.app/www/index.html#/
+2014-09-26 14:10:49.833 Passtheawesome[45059:a0b] ERROR: Error: [$rootScope:inprog] $apply already in progress
+http://errors.angularjs.org/1.3.0-build.3279+sha.ad28baa/$rootScope/inprog?p0=%24apply
+beginPhase@file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/6F10D517-EAE7-4C0A-995D-1374D6FBBBC6/Passtheawesome.app/www/lib/angular/angular.js:13769:88
+$apply@file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/6F10D517-EAE7-4C0A-995D-1374D6FBBBC6/Passtheawesome.app/www/lib/angular/angular.js:13521:21
+pickFriend@file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/6F10D517-EAE7-4C0A-995D-1374D6FBBBC6/Passtheawesome.app/www/js/controllers.js:11:24
+$parseFunctionCall@file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/6F10D517-EAE7-4C0A-995D-1374D6FBBBC6/Passtheawesome.app/www/lib/angular/angular.js:11445:23
+file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/6F10D517-EAE7-4C0A-995D-1374D6FBBBC6/Passtheawesome.app/www/lib/angular/angular-touch.js:11:402
+$eval@file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/6F10D517-EAE7-4C0A-995D-1374D6FBBBC6/Passtheawesome.app/www/lib/angular/angular.js:13424:28
+$apply@file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/6F10D517-EAE7-4C0A-995D-1374D6FBBBC6/Passtheawesome.app/www/lib/angular/angular.js:13522:28
+file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/6F10D517-EAE7-4C0A-995D-1374D6FBBBC6/Passtheawesome.app/www/lib/angular/angular-touch.js:11:389
+dispatch@http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js:3:8441
+handle@http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js:3:5144
+2014-09-26 14:17:36.457 Passtheawesome[45691:a0b] Multi-tasking -> Device: YES, App: YES
+2014-09-26 14:17:36.471 Passtheawesome[45691:a0b] Unlimited access to network resources
+2014-09-26 14:17:36.475 Passtheawesome[45691:a0b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-09-26 14:17:36.635 Passtheawesome[45691:a0b] Resetting plugins due to page load.
+2014-09-26 14:21:06.658 Passtheawesome[46053:a0b] Multi-tasking -> Device: YES, App: YES
+2014-09-26 14:21:06.671 Passtheawesome[46053:a0b] Unlimited access to network resources
+2014-09-26 14:21:06.676 Passtheawesome[46053:a0b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-09-26 14:21:06.821 Passtheawesome[46053:a0b] Resetting plugins due to page load.
+2014-09-26 14:21:07.134 Passtheawesome[46053:a0b] Finished load of: file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/6F10D517-EAE7-4C0A-995D-1374D6FBBBC6/Passtheawesome.app/www/index.html#/
+2014-09-26 14:21:39.670 Passtheawesome[46053:a0b] ERROR: Error: [$rootScope:inprog] $apply already in progress
+http://errors.angularjs.org/1.3.0-build.3279+sha.ad28baa/$rootScope/inprog?p0=%24apply
+beginPhase@file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/6F10D517-EAE7-4C0A-995D-1374D6FBBBC6/Passtheawesome.app/www/lib/angular/angular.js:13769:88
+$apply@file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/6F10D517-EAE7-4C0A-995D-1374D6FBBBC6/Passtheawesome.app/www/lib/angular/angular.js:13521:21
+pickFriend@file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/6F10D517-EAE7-4C0A-995D-1374D6FBBBC6/Passtheawesome.app/www/js/controllers.js:11:24
+$parseFunctionCall@file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/6F10D517-EAE7-4C0A-995D-1374D6FBBBC6/Passtheawesome.app/www/lib/angular/angular.js:11445:23
+file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/6F10D517-EAE7-4C0A-995D-1374D6FBBBC6/Passtheawesome.app/www/lib/angular/angular-touch.js:11:402
+$eval@file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/6F10D517-EAE7-4C0A-995D-1374D6FBBBC6/Passtheawesome.app/www/lib/angular/angular.js:13424:28
+$apply@file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/6F10D517-EAE7-4C0A-995D-1374D6FBBBC6/Passtheawesome.app/www/lib/angular/angular.js:13522:28
+file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/6F10D517-EAE7-4C0A-995D-1374D6FBBBC6/Passtheawesome.app/www/lib/angular/angular-touch.js:11:389
+dispatch@http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js:3:8441
+handle@http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js:3:5144
+2014-09-26 14:22:53.726 Passtheawesome[46362:a0b] Multi-tasking -> Device: YES, App: YES
+2014-09-26 14:22:53.739 Passtheawesome[46362:a0b] Unlimited access to network resources
+2014-09-26 14:22:53.744 Passtheawesome[46362:a0b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-09-26 14:22:53.901 Passtheawesome[46362:a0b] Resetting plugins due to page load.
+2014-09-26 14:22:54.168 Passtheawesome[46362:a0b] Finished load of: file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/6F10D517-EAE7-4C0A-995D-1374D6FBBBC6/Passtheawesome.app/www/index.html#/
+2014-09-26 14:29:38.107 Passtheawesome[47054:a0b] Multi-tasking -> Device: YES, App: YES
+2014-09-26 14:29:38.129 Passtheawesome[47054:a0b] Unlimited access to network resources
+2014-09-26 14:29:38.134 Passtheawesome[47054:a0b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-09-26 14:29:38.306 Passtheawesome[47054:a0b] Resetting plugins due to page load.
+2014-09-26 14:29:38.627 Passtheawesome[47054:a0b] Finished load of: file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/6F10D517-EAE7-4C0A-995D-1374D6FBBBC6/Passtheawesome.app/www/index.html#/
+2014-09-26 14:30:25.734 Passtheawesome[47054:a0b] ERROR: Error: [$rootScope:inprog] $apply already in progress
+http://errors.angularjs.org/1.3.0-build.3279+sha.ad28baa/$rootScope/inprog?p0=%24apply
+beginPhase@file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/6F10D517-EAE7-4C0A-995D-1374D6FBBBC6/Passtheawesome.app/www/lib/angular/angular.js:13769:88
+$apply@file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/6F10D517-EAE7-4C0A-995D-1374D6FBBBC6/Passtheawesome.app/www/lib/angular/angular.js:13521:21
+pickFriend@file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/6F10D517-EAE7-4C0A-995D-1374D6FBBBC6/Passtheawesome.app/www/js/controllers.js:11:24
+$parseFunctionCall@file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/6F10D517-EAE7-4C0A-995D-1374D6FBBBC6/Passtheawesome.app/www/lib/angular/angular.js:11445:23
+file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/6F10D517-EAE7-4C0A-995D-1374D6FBBBC6/Passtheawesome.app/www/lib/angular/angular-touch.js:11:402
+$eval@file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/6F10D517-EAE7-4C0A-995D-1374D6FBBBC6/Passtheawesome.app/www/lib/angular/angular.js:13424:28
+$apply@file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/6F10D517-EAE7-4C0A-995D-1374D6FBBBC6/Passtheawesome.app/www/lib/angular/angular.js:13522:28
+file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/6F10D517-EAE7-4C0A-995D-1374D6FBBBC6/Passtheawesome.app/www/lib/angular/angular-touch.js:11:389
+dispatch@http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js:3:8441
+handle@http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js:3:5144
+2014-09-26 14:34:17.292 Passtheawesome[47054:a0b] ERROR: Error: [$rootScope:inprog] $apply already in progress
+http://errors.angularjs.org/1.3.0-build.3279+sha.ad28baa/$rootScope/inprog?p0=%24apply
+beginPhase@file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/6F10D517-EAE7-4C0A-995D-1374D6FBBBC6/Passtheawesome.app/www/lib/angular/angular.js:13769:88
+$apply@file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/6F10D517-EAE7-4C0A-995D-1374D6FBBBC6/Passtheawesome.app/www/lib/angular/angular.js:13521:21
+pickFriend@file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/6F10D517-EAE7-4C0A-995D-1374D6FBBBC6/Passtheawesome.app/www/js/controllers.js:11:24
+$parseFunctionCall@file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/6F10D517-EAE7-4C0A-995D-1374D6FBBBC6/Passtheawesome.app/www/lib/angular/angular.js:11445:23
+file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/6F10D517-EAE7-4C0A-995D-1374D6FBBBC6/Passtheawesome.app/www/lib/angular/angular-touch.js:11:402
+$eval@file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/6F10D517-EAE7-4C0A-995D-1374D6FBBBC6/Passtheawesome.app/www/lib/angular/angular.js:13424:28
+$apply@file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/6F10D517-EAE7-4C0A-995D-1374D6FBBBC6/Passtheawesome.app/www/lib/angular/angular.js:13522:28
+file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/6F10D517-EAE7-4C0A-995D-1374D6FBBBC6/Passtheawesome.app/www/lib/angular/angular-touch.js:11:389
+dispatch@http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js:3:8441
+handle@http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js:3:5144
+2014-09-26 14:34:23.068 Passtheawesome[47054:a0b] ERROR: Error: [$rootScope:inprog] $apply already in progress
+http://errors.angularjs.org/1.3.0-build.3279+sha.ad28baa/$rootScope/inprog?p0=%24apply
+beginPhase@file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/6F10D517-EAE7-4C0A-995D-1374D6FBBBC6/Passtheawesome.app/www/lib/angular/angular.js:13769:88
+$apply@file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/6F10D517-EAE7-4C0A-995D-1374D6FBBBC6/Passtheawesome.app/www/lib/angular/angular.js:13521:21
+pickFriend@file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/6F10D517-EAE7-4C0A-995D-1374D6FBBBC6/Passtheawesome.app/www/js/controllers.js:11:24
+$parseFunctionCall@file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/6F10D517-EAE7-4C0A-995D-1374D6FBBBC6/Passtheawesome.app/www/lib/angular/angular.js:11445:23
+file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/6F10D517-EAE7-4C0A-995D-1374D6FBBBC6/Passtheawesome.app/www/lib/angular/angular-touch.js:11:402
+$eval@file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/6F10D517-EAE7-4C0A-995D-1374D6FBBBC6/Passtheawesome.app/www/lib/angular/angular.js:13424:28
+$apply@file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/6F10D517-EAE7-4C0A-995D-1374D6FBBBC6/Passtheawesome.app/www/lib/angular/angular.js:13522:28
+file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/6F10D517-EAE7-4C0A-995D-1374D6FBBBC6/Passtheawesome.app/www/lib/angular/angular-touch.js:11:389
+dispatch@http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js:3:8441
+handle@http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js:3:5144
+2014-09-26 14:34:32.624 Passtheawesome[47054:a0b] ERROR: Error: [$rootScope:inprog] $apply already in progress
+http://errors.angularjs.org/1.3.0-build.3279+sha.ad28baa/$rootScope/inprog?p0=%24apply
+beginPhase@file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/6F10D517-EAE7-4C0A-995D-1374D6FBBBC6/Passtheawesome.app/www/lib/angular/angular.js:13769:88
+$apply@file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/6F10D517-EAE7-4C0A-995D-1374D6FBBBC6/Passtheawesome.app/www/lib/angular/angular.js:13521:21
+pickFriend@file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/6F10D517-EAE7-4C0A-995D-1374D6FBBBC6/Passtheawesome.app/www/js/controllers.js:11:24
+$parseFunctionCall@file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/6F10D517-EAE7-4C0A-995D-1374D6FBBBC6/Passtheawesome.app/www/lib/angular/angular.js:11445:23
+file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/6F10D517-EAE7-4C0A-995D-1374D6FBBBC6/Passtheawesome.app/www/lib/angular/angular-touch.js:11:402
+$eval@file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/6F10D517-EAE7-4C0A-995D-1374D6FBBBC6/Passtheawesome.app/www/lib/angular/angular.js:13424:28
+$apply@file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/6F10D517-EAE7-4C0A-995D-1374D6FBBBC6/Passtheawesome.app/www/lib/angular/angular.js:13522:28
+file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/6F10D517-EAE7-4C0A-995D-1374D6FBBBC6/Passtheawesome.app/www/lib/angular/angular-touch.js:11:389
+dispatch@http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js:3:8441
+handle@http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js:3:5144
+2014-09-26 14:35:47.041 Passtheawesome[47640:a0b] Multi-tasking -> Device: YES, App: YES
+2014-09-26 14:35:47.054 Passtheawesome[47640:a0b] Unlimited access to network resources
+2014-09-26 14:35:47.060 Passtheawesome[47640:a0b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-09-26 14:35:47.282 Passtheawesome[47640:a0b] Resetting plugins due to page load.
+2014-09-26 14:35:47.557 Passtheawesome[47640:a0b] Finished load of: file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/6F10D517-EAE7-4C0A-995D-1374D6FBBBC6/Passtheawesome.app/www/index.html#/
+2014-09-26 14:35:53.144 Passtheawesome[47640:a0b] ERROR: Error: [$rootScope:inprog] $apply already in progress
+http://errors.angularjs.org/1.3.0-build.3279+sha.ad28baa/$rootScope/inprog?p0=%24apply
+beginPhase@file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/6F10D517-EAE7-4C0A-995D-1374D6FBBBC6/Passtheawesome.app/www/lib/angular/angular.js:13769:88
+$apply@file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/6F10D517-EAE7-4C0A-995D-1374D6FBBBC6/Passtheawesome.app/www/lib/angular/angular.js:13521:21
+pickFriend@file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/6F10D517-EAE7-4C0A-995D-1374D6FBBBC6/Passtheawesome.app/www/js/controllers.js:11:24
+$parseFunctionCall@file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/6F10D517-EAE7-4C0A-995D-1374D6FBBBC6/Passtheawesome.app/www/lib/angular/angular.js:11445:23
+file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/6F10D517-EAE7-4C0A-995D-1374D6FBBBC6/Passtheawesome.app/www/lib/angular/angular-touch.js:11:402
+$eval@file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/6F10D517-EAE7-4C0A-995D-1374D6FBBBC6/Passtheawesome.app/www/lib/angular/angular.js:13424:28
+$apply@file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/6F10D517-EAE7-4C0A-995D-1374D6FBBBC6/Passtheawesome.app/www/lib/angular/angular.js:13522:28
+file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/6F10D517-EAE7-4C0A-995D-1374D6FBBBC6/Passtheawesome.app/www/lib/angular/angular-touch.js:11:389
+dispatch@http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js:3:8441
+handle@http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js:3:5144
+2014-09-26 14:36:20.870 Passtheawesome[47892:a0b] Multi-tasking -> Device: YES, App: YES
+2014-09-26 14:36:20.886 Passtheawesome[47892:a0b] Unlimited access to network resources
+2014-09-26 14:36:20.892 Passtheawesome[47892:a0b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-09-26 14:36:21.119 Passtheawesome[47892:a0b] Resetting plugins due to page load.
+2014-09-26 14:36:21.377 Passtheawesome[47892:a0b] Finished load of: file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/6F10D517-EAE7-4C0A-995D-1374D6FBBBC6/Passtheawesome.app/www/index.html#/
+2014-09-26 14:36:22.794 Passtheawesome[47892:a0b] ERROR: Error: [$rootScope:inprog] $apply already in progress
+http://errors.angularjs.org/1.3.0-build.3279+sha.ad28baa/$rootScope/inprog?p0=%24apply
+beginPhase@file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/6F10D517-EAE7-4C0A-995D-1374D6FBBBC6/Passtheawesome.app/www/lib/angular/angular.js:13769:88
+$apply@file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/6F10D517-EAE7-4C0A-995D-1374D6FBBBC6/Passtheawesome.app/www/lib/angular/angular.js:13521:21
+pickFriend@file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/6F10D517-EAE7-4C0A-995D-1374D6FBBBC6/Passtheawesome.app/www/js/controllers.js:11:24
+$parseFunctionCall@file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/6F10D517-EAE7-4C0A-995D-1374D6FBBBC6/Passtheawesome.app/www/lib/angular/angular.js:11445:23
+file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/6F10D517-EAE7-4C0A-995D-1374D6FBBBC6/Passtheawesome.app/www/lib/angular/angular-touch.js:11:402
+$eval@file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/6F10D517-EAE7-4C0A-995D-1374D6FBBBC6/Passtheawesome.app/www/lib/angular/angular.js:13424:28
+$apply@file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/6F10D517-EAE7-4C0A-995D-1374D6FBBBC6/Passtheawesome.app/www/lib/angular/angular.js:13522:28
+file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/6F10D517-EAE7-4C0A-995D-1374D6FBBBC6/Passtheawesome.app/www/lib/angular/angular-touch.js:11:389
+dispatch@http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js:3:8441
+handle@http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js:3:5144
+2014-09-26 14:36:45.776 Passtheawesome[47892:a0b] ERROR: Error: [$rootScope:inprog] $apply already in progress
+http://errors.angularjs.org/1.3.0-build.3279+sha.ad28baa/$rootScope/inprog?p0=%24apply
+beginPhase@file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/6F10D517-EAE7-4C0A-995D-1374D6FBBBC6/Passtheawesome.app/www/lib/angular/angular.js:13769:88
+$apply@file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/6F10D517-EAE7-4C0A-995D-1374D6FBBBC6/Passtheawesome.app/www/lib/angular/angular.js:13521:21
+pickFriend@file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/6F10D517-EAE7-4C0A-995D-1374D6FBBBC6/Passtheawesome.app/www/js/controllers.js:11:24
+$parseFunctionCall@file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/6F10D517-EAE7-4C0A-995D-1374D6FBBBC6/Passtheawesome.app/www/lib/angular/angular.js:11445:23
+file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/6F10D517-EAE7-4C0A-995D-1374D6FBBBC6/Passtheawesome.app/www/lib/angular/angular-touch.js:11:402
+$eval@file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/6F10D517-EAE7-4C0A-995D-1374D6FBBBC6/Passtheawesome.app/www/lib/angular/angular.js:13424:28
+$apply@file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/6F10D517-EAE7-4C0A-995D-1374D6FBBBC6/Passtheawesome.app/www/lib/angular/angular.js:13522:28
+file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/6F10D517-EAE7-4C0A-995D-1374D6FBBBC6/Passtheawesome.app/www/lib/angular/angular-touch.js:11:389
+dispatch@http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js:3:8441
+handle@http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js:3:5144
+2014-09-26 14:37:01.092 Passtheawesome[47892:a0b] ERROR: Error: [$rootScope:inprog] $apply already in progress
+http://errors.angularjs.org/1.3.0-build.3279+sha.ad28baa/$rootScope/inprog?p0=%24apply
+beginPhase@file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/6F10D517-EAE7-4C0A-995D-1374D6FBBBC6/Passtheawesome.app/www/lib/angular/angular.js:13769:88
+$apply@file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/6F10D517-EAE7-4C0A-995D-1374D6FBBBC6/Passtheawesome.app/www/lib/angular/angular.js:13521:21
+pickFriend@file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/6F10D517-EAE7-4C0A-995D-1374D6FBBBC6/Passtheawesome.app/www/js/controllers.js:11:24
+$parseFunctionCall@file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/6F10D517-EAE7-4C0A-995D-1374D6FBBBC6/Passtheawesome.app/www/lib/angular/angular.js:11445:23
+file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/6F10D517-EAE7-4C0A-995D-1374D6FBBBC6/Passtheawesome.app/www/lib/angular/angular-touch.js:11:402
+$eval@file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/6F10D517-EAE7-4C0A-995D-1374D6FBBBC6/Passtheawesome.app/www/lib/angular/angular.js:13424:28
+$apply@file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/6F10D517-EAE7-4C0A-995D-1374D6FBBBC6/Passtheawesome.app/www/lib/angular/angular.js:13522:28
+file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/6F10D517-EAE7-4C0A-995D-1374D6FBBBC6/Passtheawesome.app/www/lib/angular/angular-touch.js:11:389
+dispatch@http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js:3:8441
+handle@http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js:3:5144
+Terminating in response to SpringBoard's termination.
+2014-09-26 14:37:10.850 Passtheawesome[48147:a0b] Multi-tasking -> Device: YES, App: YES
+2014-09-26 14:37:10.864 Passtheawesome[48147:a0b] Unlimited access to network resources
+2014-09-26 14:37:10.867 Passtheawesome[48147:a0b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-09-26 14:37:10.999 Passtheawesome[48147:a0b] Resetting plugins due to page load.
+2014-09-26 14:37:11.258 Passtheawesome[48147:a0b] Finished load of: file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/6F10D517-EAE7-4C0A-995D-1374D6FBBBC6/Passtheawesome.app/www/index.html#/
+2014-09-26 14:37:12.597 Passtheawesome[48147:a0b] ERROR: Error: [$rootScope:inprog] $apply already in progress
+http://errors.angularjs.org/1.3.0-build.3279+sha.ad28baa/$rootScope/inprog?p0=%24apply
+beginPhase@file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/6F10D517-EAE7-4C0A-995D-1374D6FBBBC6/Passtheawesome.app/www/lib/angular/angular.js:13769:88
+$apply@file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/6F10D517-EAE7-4C0A-995D-1374D6FBBBC6/Passtheawesome.app/www/lib/angular/angular.js:13521:21
+pickFriend@file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/6F10D517-EAE7-4C0A-995D-1374D6FBBBC6/Passtheawesome.app/www/js/controllers.js:11:24
+$parseFunctionCall@file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/6F10D517-EAE7-4C0A-995D-1374D6FBBBC6/Passtheawesome.app/www/lib/angular/angular.js:11445:23
+file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/6F10D517-EAE7-4C0A-995D-1374D6FBBBC6/Passtheawesome.app/www/lib/angular/angular-touch.js:11:402
+$eval@file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/6F10D517-EAE7-4C0A-995D-1374D6FBBBC6/Passtheawesome.app/www/lib/angular/angular.js:13424:28
+$apply@file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/6F10D517-EAE7-4C0A-995D-1374D6FBBBC6/Passtheawesome.app/www/lib/angular/angular.js:13522:28
+file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/6F10D517-EAE7-4C0A-995D-1374D6FBBBC6/Passtheawesome.app/www/lib/angular/angular-touch.js:11:389
+dispatch@http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js:3:8441
+handle@http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js:3:5144
+2014-09-26 14:38:33.182 Passtheawesome[48147:a0b] ERROR: Error: [$rootScope:inprog] $apply already in progress
+http://errors.angularjs.org/1.3.0-build.3279+sha.ad28baa/$rootScope/inprog?p0=%24apply
+beginPhase@file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/6F10D517-EAE7-4C0A-995D-1374D6FBBBC6/Passtheawesome.app/www/lib/angular/angular.js:13769:88
+$apply@file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/6F10D517-EAE7-4C0A-995D-1374D6FBBBC6/Passtheawesome.app/www/lib/angular/angular.js:13521:21
+pickFriend@file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/6F10D517-EAE7-4C0A-995D-1374D6FBBBC6/Passtheawesome.app/www/js/controllers.js:11:24
+$parseFunctionCall@file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/6F10D517-EAE7-4C0A-995D-1374D6FBBBC6/Passtheawesome.app/www/lib/angular/angular.js:11445:23
+file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/6F10D517-EAE7-4C0A-995D-1374D6FBBBC6/Passtheawesome.app/www/lib/angular/angular-touch.js:11:402
+$eval@file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/6F10D517-EAE7-4C0A-995D-1374D6FBBBC6/Passtheawesome.app/www/lib/angular/angular.js:13424:28
+$apply@file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/6F10D517-EAE7-4C0A-995D-1374D6FBBBC6/Passtheawesome.app/www/lib/angular/angular.js:13522:28
+file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/6F10D517-EAE7-4C0A-995D-1374D6FBBBC6/Passtheawesome.app/www/lib/angular/angular-touch.js:11:389
+dispatch@http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js:3:8441
+handle@http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js:3:5144
+2014-09-26 14:38:57.162 Passtheawesome[48147:a0b] ERROR: Error: [$rootScope:inprog] $apply already in progress
+http://errors.angularjs.org/1.3.0-build.3279+sha.ad28baa/$rootScope/inprog?p0=%24apply
+beginPhase@file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/6F10D517-EAE7-4C0A-995D-1374D6FBBBC6/Passtheawesome.app/www/lib/angular/angular.js:13769:88
+$apply@file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/6F10D517-EAE7-4C0A-995D-1374D6FBBBC6/Passtheawesome.app/www/lib/angular/angular.js:13521:21
+pickFriend@file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/6F10D517-EAE7-4C0A-995D-1374D6FBBBC6/Passtheawesome.app/www/js/controllers.js:11:24
+$parseFunctionCall@file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/6F10D517-EAE7-4C0A-995D-1374D6FBBBC6/Passtheawesome.app/www/lib/angular/angular.js:11445:23
+file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/6F10D517-EAE7-4C0A-995D-1374D6FBBBC6/Passtheawesome.app/www/lib/angular/angular-touch.js:11:402
+$eval@file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/6F10D517-EAE7-4C0A-995D-1374D6FBBBC6/Passtheawesome.app/www/lib/angular/angular.js:13424:28
+$apply@file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/6F10D517-EAE7-4C0A-995D-1374D6FBBBC6/Passtheawesome.app/www/lib/angular/angular.js:13522:28
+file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/6F10D517-EAE7-4C0A-995D-1374D6FBBBC6/Passtheawesome.app/www/lib/angular/angular-touch.js:11:389
+dispatch@http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js:3:8441
+handle@http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js:3:5144
+Terminating in response to SpringBoard's termination.
+2014-09-26 14:39:25.718 Passtheawesome[48460:a0b] Multi-tasking -> Device: YES, App: YES
+2014-09-26 14:39:25.731 Passtheawesome[48460:a0b] Unlimited access to network resources
+2014-09-26 14:39:25.735 Passtheawesome[48460:a0b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-09-26 14:39:25.876 Passtheawesome[48460:a0b] Resetting plugins due to page load.
+2014-09-26 14:39:26.160 Passtheawesome[48460:a0b] Finished load of: file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/6F10D517-EAE7-4C0A-995D-1374D6FBBBC6/Passtheawesome.app/www/index.html#/
+2014-09-26 14:39:29.965 Passtheawesome[48460:a0b] ERROR: Error: [$rootScope:inprog] $apply already in progress
+http://errors.angularjs.org/1.3.0-build.3279+sha.ad28baa/$rootScope/inprog?p0=%24apply
+beginPhase@file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/6F10D517-EAE7-4C0A-995D-1374D6FBBBC6/Passtheawesome.app/www/lib/angular/angular.js:13769:88
+$apply@file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/6F10D517-EAE7-4C0A-995D-1374D6FBBBC6/Passtheawesome.app/www/lib/angular/angular.js:13521:21
+pickFriend@file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/6F10D517-EAE7-4C0A-995D-1374D6FBBBC6/Passtheawesome.app/www/js/controllers.js:11:24
+$parseFunctionCall@file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/6F10D517-EAE7-4C0A-995D-1374D6FBBBC6/Passtheawesome.app/www/lib/angular/angular.js:11445:23
+file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/6F10D517-EAE7-4C0A-995D-1374D6FBBBC6/Passtheawesome.app/www/lib/angular/angular-touch.js:11:402
+$eval@file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/6F10D517-EAE7-4C0A-995D-1374D6FBBBC6/Passtheawesome.app/www/lib/angular/angular.js:13424:28
+$apply@file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/6F10D517-EAE7-4C0A-995D-1374D6FBBBC6/Passtheawesome.app/www/lib/angular/angular.js:13522:28
+file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/6F10D517-EAE7-4C0A-995D-1374D6FBBBC6/Passtheawesome.app/www/lib/angular/angular-touch.js:11:389
+dispatch@http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js:3:8441
+handle@http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js:3:5144
+2014-09-26 14:40:26.935 Passtheawesome[48729:a0b] Multi-tasking -> Device: YES, App: YES
+2014-09-26 14:40:26.948 Passtheawesome[48729:a0b] Unlimited access to network resources
+2014-09-26 14:40:26.952 Passtheawesome[48729:a0b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-09-26 14:40:27.101 Passtheawesome[48729:a0b] Resetting plugins due to page load.
+2014-09-26 14:40:27.369 Passtheawesome[48729:a0b] Finished load of: file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/6F10D517-EAE7-4C0A-995D-1374D6FBBBC6/Passtheawesome.app/www/index.html#/
+2014-09-26 14:41:07.313 Passtheawesome[48729:a0b] ERROR: Error: [$rootScope:inprog] $apply already in progress
+http://errors.angularjs.org/1.3.0-build.3279+sha.ad28baa/$rootScope/inprog?p0=%24apply
+beginPhase@file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/6F10D517-EAE7-4C0A-995D-1374D6FBBBC6/Passtheawesome.app/www/lib/angular/angular.js:13769:88
+$apply@file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/6F10D517-EAE7-4C0A-995D-1374D6FBBBC6/Passtheawesome.app/www/lib/angular/angular.js:13521:21
+pickFriend@file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/6F10D517-EAE7-4C0A-995D-1374D6FBBBC6/Passtheawesome.app/www/js/controllers.js:11:24
+$parseFunctionCall@file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/6F10D517-EAE7-4C0A-995D-1374D6FBBBC6/Passtheawesome.app/www/lib/angular/angular.js:11445:23
+file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/6F10D517-EAE7-4C0A-995D-1374D6FBBBC6/Passtheawesome.app/www/lib/angular/angular-touch.js:11:402
+$eval@file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/6F10D517-EAE7-4C0A-995D-1374D6FBBBC6/Passtheawesome.app/www/lib/angular/angular.js:13424:28
+$apply@file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/6F10D517-EAE7-4C0A-995D-1374D6FBBBC6/Passtheawesome.app/www/lib/angular/angular.js:13522:28
+file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/6F10D517-EAE7-4C0A-995D-1374D6FBBBC6/Passtheawesome.app/www/lib/angular/angular-touch.js:11:389
+dispatch@http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js:3:8441
+handle@http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js:3:5144
+2014-09-26 14:41:40.696 Passtheawesome[49003:a0b] Multi-tasking -> Device: YES, App: YES
+2014-09-26 14:41:40.709 Passtheawesome[49003:a0b] Unlimited access to network resources
+2014-09-26 14:41:40.714 Passtheawesome[49003:a0b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-09-26 14:41:40.874 Passtheawesome[49003:a0b] Resetting plugins due to page load.
+2014-09-26 14:41:41.168 Passtheawesome[49003:a0b] Finished load of: file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/6F10D517-EAE7-4C0A-995D-1374D6FBBBC6/Passtheawesome.app/www/index.html#/
+2014-09-26 14:41:42.480 Passtheawesome[49003:a0b] ERROR: Error: [$rootScope:inprog] $apply already in progress
+http://errors.angularjs.org/1.3.0-build.3279+sha.ad28baa/$rootScope/inprog?p0=%24apply
+beginPhase@file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/6F10D517-EAE7-4C0A-995D-1374D6FBBBC6/Passtheawesome.app/www/lib/angular/angular.js:13769:88
+$apply@file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/6F10D517-EAE7-4C0A-995D-1374D6FBBBC6/Passtheawesome.app/www/lib/angular/angular.js:13521:21
+pickFriend@file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/6F10D517-EAE7-4C0A-995D-1374D6FBBBC6/Passtheawesome.app/www/js/controllers.js:11:24
+$parseFunctionCall@file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/6F10D517-EAE7-4C0A-995D-1374D6FBBBC6/Passtheawesome.app/www/lib/angular/angular.js:11445:23
+file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/6F10D517-EAE7-4C0A-995D-1374D6FBBBC6/Passtheawesome.app/www/lib/angular/angular-touch.js:11:402
+$eval@file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/6F10D517-EAE7-4C0A-995D-1374D6FBBBC6/Passtheawesome.app/www/lib/angular/angular.js:13424:28
+$apply@file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/6F10D517-EAE7-4C0A-995D-1374D6FBBBC6/Passtheawesome.app/www/lib/angular/angular.js:13522:28
+file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/6F10D517-EAE7-4C0A-995D-1374D6FBBBC6/Passtheawesome.app/www/lib/angular/angular-touch.js:11:389
+dispatch@http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js:3:8441
+handle@http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js:3:5144
+2014-09-26 14:42:08.300 Passtheawesome[49003:a0b] ERROR: Error: [$rootScope:inprog] $apply already in progress
+http://errors.angularjs.org/1.3.0-build.3279+sha.ad28baa/$rootScope/inprog?p0=%24apply
+beginPhase@file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/6F10D517-EAE7-4C0A-995D-1374D6FBBBC6/Passtheawesome.app/www/lib/angular/angular.js:13769:88
+$apply@file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/6F10D517-EAE7-4C0A-995D-1374D6FBBBC6/Passtheawesome.app/www/lib/angular/angular.js:13521:21
+pickFriend@file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/6F10D517-EAE7-4C0A-995D-1374D6FBBBC6/Passtheawesome.app/www/js/controllers.js:11:24
+$parseFunctionCall@file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/6F10D517-EAE7-4C0A-995D-1374D6FBBBC6/Passtheawesome.app/www/lib/angular/angular.js:11445:23
+file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/6F10D517-EAE7-4C0A-995D-1374D6FBBBC6/Passtheawesome.app/www/lib/angular/angular-touch.js:11:402
+$eval@file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/6F10D517-EAE7-4C0A-995D-1374D6FBBBC6/Passtheawesome.app/www/lib/angular/angular.js:13424:28
+$apply@file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/6F10D517-EAE7-4C0A-995D-1374D6FBBBC6/Passtheawesome.app/www/lib/angular/angular.js:13522:28
+file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/6F10D517-EAE7-4C0A-995D-1374D6FBBBC6/Passtheawesome.app/www/lib/angular/angular-touch.js:11:389
+dispatch@http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js:3:8441
+handle@http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js:3:5144
+2014-09-26 14:42:16.100 Passtheawesome[49003:a0b] ERROR: Error: [$rootScope:inprog] $apply already in progress
+http://errors.angularjs.org/1.3.0-build.3279+sha.ad28baa/$rootScope/inprog?p0=%24apply
+beginPhase@file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/6F10D517-EAE7-4C0A-995D-1374D6FBBBC6/Passtheawesome.app/www/lib/angular/angular.js:13769:88
+$apply@file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/6F10D517-EAE7-4C0A-995D-1374D6FBBBC6/Passtheawesome.app/www/lib/angular/angular.js:13521:21
+pickFriend@file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/6F10D517-EAE7-4C0A-995D-1374D6FBBBC6/Passtheawesome.app/www/js/controllers.js:11:24
+$parseFunctionCall@file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/6F10D517-EAE7-4C0A-995D-1374D6FBBBC6/Passtheawesome.app/www/lib/angular/angular.js:11445:23
+file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/6F10D517-EAE7-4C0A-995D-1374D6FBBBC6/Passtheawesome.app/www/lib/angular/angular-touch.js:11:402
+$eval@file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/6F10D517-EAE7-4C0A-995D-1374D6FBBBC6/Passtheawesome.app/www/lib/angular/angular.js:13424:28
+$apply@file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/6F10D517-EAE7-4C0A-995D-1374D6FBBBC6/Passtheawesome.app/www/lib/angular/angular.js:13522:28
+file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/6F10D517-EAE7-4C0A-995D-1374D6FBBBC6/Passtheawesome.app/www/lib/angular/angular-touch.js:11:389
+dispatch@http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js:3:8441
+handle@http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js:3:5144
+2014-09-26 14:42:27.000 Passtheawesome[49003:a0b] ERROR: Error: [$rootScope:inprog] $apply already in progress
+http://errors.angularjs.org/1.3.0-build.3279+sha.ad28baa/$rootScope/inprog?p0=%24apply
+beginPhase@file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/6F10D517-EAE7-4C0A-995D-1374D6FBBBC6/Passtheawesome.app/www/lib/angular/angular.js:13769:88
+$apply@file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/6F10D517-EAE7-4C0A-995D-1374D6FBBBC6/Passtheawesome.app/www/lib/angular/angular.js:13521:21
+pickFriend@file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/6F10D517-EAE7-4C0A-995D-1374D6FBBBC6/Passtheawesome.app/www/js/controllers.js:11:24
+$parseFunctionCall@file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/6F10D517-EAE7-4C0A-995D-1374D6FBBBC6/Passtheawesome.app/www/lib/angular/angular.js:11445:23
+file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/6F10D517-EAE7-4C0A-995D-1374D6FBBBC6/Passtheawesome.app/www/lib/angular/angular-touch.js:11:402
+$eval@file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/6F10D517-EAE7-4C0A-995D-1374D6FBBBC6/Passtheawesome.app/www/lib/angular/angular.js:13424:28
+$apply@file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/6F10D517-EAE7-4C0A-995D-1374D6FBBBC6/Passtheawesome.app/www/lib/angular/angular.js:13522:28
+file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/6F10D517-EAE7-4C0A-995D-1374D6FBBBC6/Passtheawesome.app/www/lib/angular/angular-touch.js:11:389
+dispatch@http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js:3:8441
+handle@http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js:3:5144
+2014-09-26 14:45:36.649 Passtheawesome[49362:a0b] Multi-tasking -> Device: YES, App: YES
+2014-09-26 14:45:36.662 Passtheawesome[49362:a0b] Unlimited access to network resources
+2014-09-26 14:45:36.667 Passtheawesome[49362:a0b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-09-26 14:45:36.816 Passtheawesome[49362:a0b] Resetting plugins due to page load.
+2014-09-26 14:45:37.096 Passtheawesome[49362:a0b] Finished load of: file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/6F10D517-EAE7-4C0A-995D-1374D6FBBBC6/Passtheawesome.app/www/index.html#/
+2014-09-26 14:45:39.532 Passtheawesome[49362:a0b] ERROR: Error: [$rootScope:inprog] $apply already in progress
+http://errors.angularjs.org/1.3.0-build.3279+sha.ad28baa/$rootScope/inprog?p0=%24apply
+beginPhase@file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/6F10D517-EAE7-4C0A-995D-1374D6FBBBC6/Passtheawesome.app/www/lib/angular/angular.js:13769:88
+$apply@file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/6F10D517-EAE7-4C0A-995D-1374D6FBBBC6/Passtheawesome.app/www/lib/angular/angular.js:13521:21
+pickFriend@file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/6F10D517-EAE7-4C0A-995D-1374D6FBBBC6/Passtheawesome.app/www/js/controllers.js:11:24
+$parseFunctionCall@file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/6F10D517-EAE7-4C0A-995D-1374D6FBBBC6/Passtheawesome.app/www/lib/angular/angular.js:11445:23
+file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/6F10D517-EAE7-4C0A-995D-1374D6FBBBC6/Passtheawesome.app/www/lib/angular/angular-touch.js:11:402
+$eval@file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/6F10D517-EAE7-4C0A-995D-1374D6FBBBC6/Passtheawesome.app/www/lib/angular/angular.js:13424:28
+$apply@file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/6F10D517-EAE7-4C0A-995D-1374D6FBBBC6/Passtheawesome.app/www/lib/angular/angular.js:13522:28
+file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/6F10D517-EAE7-4C0A-995D-1374D6FBBBC6/Passtheawesome.app/www/lib/angular/angular-touch.js:11:389
+dispatch@http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js:3:8441
+handle@http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js:3:5144
+2014-09-26 14:47:08.430 Passtheawesome[49362:a0b] ERROR: Error: [$rootScope:inprog] $apply already in progress
+http://errors.angularjs.org/1.3.0-build.3279+sha.ad28baa/$rootScope/inprog?p0=%24apply
+beginPhase@file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/6F10D517-EAE7-4C0A-995D-1374D6FBBBC6/Passtheawesome.app/www/lib/angular/angular.js:13769:88
+$apply@file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/6F10D517-EAE7-4C0A-995D-1374D6FBBBC6/Passtheawesome.app/www/lib/angular/angular.js:13521:21
+pickFriend@file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/6F10D517-EAE7-4C0A-995D-1374D6FBBBC6/Passtheawesome.app/www/js/controllers.js:11:24
+$parseFunctionCall@file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/6F10D517-EAE7-4C0A-995D-1374D6FBBBC6/Passtheawesome.app/www/lib/angular/angular.js:11445:23
+file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/6F10D517-EAE7-4C0A-995D-1374D6FBBBC6/Passtheawesome.app/www/lib/angular/angular-touch.js:11:402
+$eval@file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/6F10D517-EAE7-4C0A-995D-1374D6FBBBC6/Passtheawesome.app/www/lib/angular/angular.js:13424:28
+$apply@file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/6F10D517-EAE7-4C0A-995D-1374D6FBBBC6/Passtheawesome.app/www/lib/angular/angular.js:13522:28
+file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/6F10D517-EAE7-4C0A-995D-1374D6FBBBC6/Passtheawesome.app/www/lib/angular/angular-touch.js:11:389
+dispatch@http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js:3:8441
+handle@http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js:3:5144
+2014-09-26 14:48:03.702 Passtheawesome[49694:a0b] Multi-tasking -> Device: YES, App: YES
+2014-09-26 14:48:03.714 Passtheawesome[49694:a0b] Unlimited access to network resources
+2014-09-26 14:48:03.718 Passtheawesome[49694:a0b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-09-26 14:48:03.872 Passtheawesome[49694:a0b] Resetting plugins due to page load.
+2014-09-26 14:48:04.152 Passtheawesome[49694:a0b] Finished load of: file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/6F10D517-EAE7-4C0A-995D-1374D6FBBBC6/Passtheawesome.app/www/index.html#/
+2014-09-26 14:50:04.719 Passtheawesome[50066:a0b] Multi-tasking -> Device: YES, App: YES
+2014-09-26 14:50:04.733 Passtheawesome[50066:a0b] Unlimited access to network resources
+2014-09-26 14:50:04.737 Passtheawesome[50066:a0b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-09-26 14:50:04.862 Passtheawesome[50066:a0b] Resetting plugins due to page load.
+2014-09-26 14:50:05.074 Passtheawesome[50066:a0b] Finished load of: file:///Users/reesretuta/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/6F10D517-EAE7-4C0A-995D-1374D6FBBBC6/Passtheawesome.app/www/index.html#/

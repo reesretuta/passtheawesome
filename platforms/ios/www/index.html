@@ -26,21 +26,28 @@
         <title>Angular PhoneGap Seed</title>
     </head>
     <body ng-controller="MainCtrl">
-        <div id="overlay">
-          <p>You about to send {{friend}} some Awesome!</p>
-          <div class="example">"A friend of yours just wanted to let you know that: "you're awesome". That is all."
-            <!-- (pass the awesome around: -bitly) -->
+      
+        <div id="overlay-wrap">
+          <div id="overlay">
+            <p>You're about to *anonymously* send<br/>{{friend}} some Awesome!</p>
+            <div class="example">"A friend of yours just wanted to let you know that: "you're awesome". That is all."
+              <!-- (pass the awesome around: -bitly) -->
+            </div>
+            <a id="send" class="blink">SEND THIS TEXT MSG NOW!</a>
+            <div id="close" ng-click="closePopup()">X</div>
           </div>
-          <a id="send">SEND TEXT MESSAGE!</a>
-          <div id="close" ng-click="closePopup()">X</div>
         </div>
+        
         
         <div class="app-body">
             <a id="findFriends" ng-click="findContact()">List My Friends</a>
             <input type="text" ng-model="search" value="" placeholder="Filter Friends"/>
             <ul id="friendList">
+              <li ng-click="pickFriend(friendObj.name.formatted, friendObj.phoneNumbers[0].value)">
+                <div><a class="friendName" href="#">asdfasdf</a><a class="passButton">Send Awesomeness</a></div>
+              </li>
                   <li ng-click="pickFriend(friendObj.name.formatted, friendObj.phoneNumbers[0].value)" ng-repeat="friendObj in contacts | filter:search:strict">
-                    <div><a href="#">{{friendObj.name.formatted}}</a><a class="passButton">SEND THE AWESOME</a></div>
+                    <div><a class="friendName" href="#">{{friendObj.name.formatted}}</a><a class="passButton">Send Awesomeness</a></div>
                   </li>
             </ul>
             <div ng-view></div>
@@ -64,6 +71,8 @@
 
         
         $(function(){
+
+          
           
           $('body').on('click','#send',function(){
 

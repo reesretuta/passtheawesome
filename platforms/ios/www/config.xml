@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='utf-8'?>
 <widget id="com.passtheawesome" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
-    <name>HelloWorld</name>
+    <name>Passtheawesome</name>
     <description>
-        Hello World sample application that responds to the deviceready event.
+        Easiest way to make someone's day
     </description>
-    <author email="support@phonegap.com" href="http://phonegap.com">
-        PhoneGap Team
+    <author email="rees.retuta@gmail.com" href="http://lionstepmedia.com">
+      Lionstep
     </author>
     <preference name="permissions" value="none" />
     <preference name="phonegap-version" value="3.5.0" />
@@ -67,7 +67,7 @@
     <gap:splash gap:platform="winphone" src="res/screen/windows-phone/screen-portrait.jpg" />
     <access origin="*" />
 
-    <gap:plugin name="org.apache.cordova.contacts" version="0.2.11"/>
+    <gap:plugin name="org.apache.cordova.contacts"/>
     <!-- local machine using 0.2.13... phonegap website plugins list says 0.2.11..install 2.11 on local machine..local 2.13 version needs "filter array" as first param.  phonegap plugin 2.11 needs filter array as 3rd param-->
     <!-- <gap:plugin name="com.techmuscle.contacts"/> -->
     <!-- <gap:plugin name="org.apache.cordova.contacts" version="0.2.9"/> -->
